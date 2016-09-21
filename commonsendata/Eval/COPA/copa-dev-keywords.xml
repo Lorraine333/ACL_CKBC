@@ -1,0 +1,3005 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE copa-corpus SYSTEM "copa.dtd">
+<copa-corpus  version="1.0">
+
+  <item id="1" asks-for="cause" most-plausible-alternative="1">
+    <p>my body cast a shadow over </p>
+    <a1>sun rising </a1>
+    <a2>cut </a2>
+  </item>
+
+  <item id="2" asks-for="cause" most-plausible-alternative="1">
+    <p>tolerated friend's difficult behavior </p>
+    <a1>knew was going through a hard time </a1>
+    <a2>felt that took advantage of kindness </a2>
+  </item>
+
+  <item id="3" asks-for="cause" most-plausible-alternative="2">
+    <p>women met for coffee </p>
+    <a1>cafe reopened in a new location </a1>
+    <a2>they wanted to catch up with each other </a2>
+  </item>
+
+  <item id="4" asks-for="cause" most-plausible-alternative="1">
+    <p>runner wore shorts </p>
+    <a1>forecast predicted high temperatures </a1>
+    <a2>she planned to run along beach </a2>
+  </item>
+
+  <item id="5" asks-for="cause" most-plausible-alternative="1">
+    <p>guests of hid behind couch </p>
+    <a1>surprise </a1>
+    <a2>birthday </a2>
+  </item>
+
+  <item id="6" asks-for="cause" most-plausible-alternative="2">
+    <p>politician lost election </p>
+    <a1>he ran negative campaign ads </a1>
+    <a2>no one voted for him </a2>
+  </item>
+
+  <item id="7" asks-for="cause" most-plausible-alternative="2">
+    <p>stain came out of </p>
+    <a1>patched </a1>
+    <a2>bleached </a2>
+  </item>
+
+  <item id="8" asks-for="cause" most-plausible-alternative="2">
+    <p>man got discount on his groceries </p>
+    <a1>greeted tcashier </a1>
+    <a2>used coupon </a2>
+  </item>
+
+  <item id="9" asks-for="effect" most-plausible-alternative="1">
+    <p>misdiagnosed </p>
+    <a1>filed a malpractice lawsuit against </a1>
+    <a2>disclosed confidential information to </a2>
+  </item>
+
+  <item id="10" asks-for="cause" most-plausible-alternative="2">
+    <p>filed a complaint with store manager </p>
+    <a1>undercharged </a1>
+    <a2>acted rude to </a2>
+  </item>
+
+  <item id="11" asks-for="cause" most-plausible-alternative="1">
+    <p>woman repaired her </p>
+    <a1>leaky </a1>
+    <a2>turned off </a2>
+  </item>
+
+  <item id="12" asks-for="effect" most-plausible-alternative="2">
+    <p>elderly woman suffered a stroke </p>
+    <a1>came over clean house </a1>
+    <a2>moved in take care of </a2>
+  </item>
+
+  <item id="13" asks-for="effect" most-plausible-alternative="1">
+    <p>froze over for winter </p>
+    <a1>skated on </a1>
+    <a2>brought boats to </a2>
+  </item>
+
+  <item id="14" asks-for="effect" most-plausible-alternative="1">
+    <p>offender violated parole </p>
+    <a1>was sent back to jail </a1>
+    <a2>stole money from a church </a2>
+  </item>
+
+  <item id="15" asks-for="effect" most-plausible-alternative="1">
+    <p>i poured water on sleeping </p>
+    <a1>awoke </a1>
+    <a2>snored </a2>
+  </item>
+
+  <item id="16" asks-for="cause" most-plausible-alternative="1">
+    <p>girl gasped </p>
+    <a1>stuck an ice cube down </a1>
+    <a2>gave a pat on </a2>
+  </item>
+
+  <item id="17" asks-for="cause" most-plausible-alternative="2">
+    <p>shirt shrunk </p>
+    <a1>poured bleach on </a1>
+    <a2>put in dryer </a2>
+  </item>
+
+  <item id="18" asks-for="effect" most-plausible-alternative="2">
+    <p>it got dark outside </p>
+    <a1>snowflakes began to fall from </a1>
+    <a2>moon became visible in </a2>
+  </item>
+
+  <item id="19" asks-for="cause" most-plausible-alternative="1">
+    <p>i hung up phone </p>
+    <a1>said goodbye </a1>
+    <a2>identified himself </a2>
+  </item>
+
+  <item id="20" asks-for="effect" most-plausible-alternative="2">
+    <p>woman's slipped off in shower </p>
+    <a1>woman polished </a1>
+    <a2>went down drain </a2>
+  </item>
+
+  <item id="21" asks-for="cause" most-plausible-alternative="1">
+    <p>girl received trophy </p>
+    <a1>won spelling bee </a1>
+    <a2>made new friend </a2>
+  </item>
+
+  <item id="22" asks-for="effect" most-plausible-alternative="1">
+    <p>woman's date wanted to look like a gentleman </p>
+    <a1>opened tdoor for </a1>
+    <a2>asked if sliked sushi </a2>
+  </item>
+
+  <item id="23" asks-for="effect" most-plausible-alternative="1">
+    <p>farmland needed irrigation </p>
+    <a1>canal was constructed </a1>
+    <a2>flood occurred </a2>
+  </item>
+
+  <item id="24" asks-for="cause" most-plausible-alternative="1">
+    <p>host cancelled party </p>
+    <a1>was certain had </a1>
+    <a2>worried would catch </a2>
+  </item>
+
+  <item id="25" asks-for="cause" most-plausible-alternative="1">
+    <p>woman gave man her phone number </p>
+    <a1>attracted to </a1>
+    <a2>repulsed by </a2>
+  </item>
+
+  <item id="26" asks-for="cause" most-plausible-alternative="1">
+    <p>skydiver glided safely to ground </p>
+    <a1>opened her parachute </a1>
+    <a2>jumped out of plane </a2>
+  </item>
+
+  <item id="27" asks-for="effect" most-plausible-alternative="1">
+    <p>toddler became cranky </p>
+    <a1>motput down for a nap </a1>
+    <a2>motfixed hair into pigtails </a2>
+  </item>
+
+  <item id="28" asks-for="cause" most-plausible-alternative="2">
+    <p>child became immune </p>
+    <a1>avoided exposure t </a1>
+    <a2>received tvaccine for t </a2>
+  </item>
+
+  <item id="29" asks-for="effect" most-plausible-alternative="1">
+    <p>grape fermented </p>
+    <a1>turned to wine </a1>
+    <a2>evaporated </a2>
+  </item>
+
+  <item id="30" asks-for="cause" most-plausible-alternative="2">
+    <p>friends' debate dragged on interminably </p>
+    <a1>saw eye to eye </a1>
+    <a2>were splitting hairs </a2>
+  </item>
+
+  <item id="31" asks-for="cause" most-plausible-alternative="2">
+    <p>woman hummed to herself </p>
+    <a1>nervous </a1>
+    <a2>in a good mood </a2>
+  </item>
+
+  <item id="32" asks-for="effect" most-plausible-alternative="1">
+    <p>man hated his new haircut </p>
+    <a1>wore hat </a1>
+    <a2>grew beard </a2>
+  </item>
+
+  <item id="33" asks-for="effect" most-plausible-alternative="2">
+    <p>police aimed their weapons at </p>
+    <a1>fell to ground </a1>
+    <a2>dropped his gun </a2>
+  </item>
+
+  <item id="34" asks-for="effect" most-plausible-alternative="2">
+    <p>patient was dehydrated </p>
+    <a1>tested his reflexes </a1>
+    <a2>gave him an iv </a2>
+  </item>
+
+  <item id="35" asks-for="effect" most-plausible-alternative="1">
+    <p>girl found missing piece </p>
+    <a1>completed </a1>
+    <a2>took apart </a2>
+  </item>
+
+  <item id="36" asks-for="cause" most-plausible-alternative="1">
+    <p>man urgently leaped out of bed </p>
+    <a1>shut off talarm clock </a1>
+    <a2>iron his pants before work </a2>
+  </item>
+
+  <item id="37" asks-for="effect" most-plausible-alternative="2">
+    <p>papers were disorganized </p>
+    <a1>made photocopies of </a1>
+    <a2>put into alphabetical order </a2>
+  </item>
+
+  <item id="38" asks-for="effect" most-plausible-alternative="1">
+    <p>woman won lottery </p>
+    <a1>bought yacht </a1>
+    <a2>joined church </a2>
+  </item>
+
+  <item id="39" asks-for="effect" most-plausible-alternative="2">
+    <p>seamstress pushed threaded into </p>
+    <a1>wrapped around </a1>
+    <a2>went through </a2>
+  </item>
+
+  <item id="40" asks-for="cause" most-plausible-alternative="1">
+    <p>woman hired a lawyer </p>
+    <a1>sue her employer </a1>
+    <a2>run for office </a2>
+  </item>
+
+  <item id="41" asks-for="effect" most-plausible-alternative="1">
+    <p>tenant misplaced keys to apartment </p>
+    <a1>unlocked </a1>
+    <a2>repaired </a2>
+  </item>
+
+  <item id="42" asks-for="effect" most-plausible-alternative="2">
+    <p>favorite song came on radio </p>
+    <a1>covered ears </a1>
+    <a2>sang along to it </a2>
+  </item>
+
+  <item id="43" asks-for="cause" most-plausible-alternative="1">
+    <p>executive decided not to hire </p>
+    <a1>failed a background check </a1>
+    <a2>had experience for job </a2>
+  </item>
+
+  <item id="44" asks-for="effect" most-plausible-alternative="1">
+    <p>man's eye became infected </p>
+    <a1>went blind </a1>
+    <a2>put on glasses </a2>
+  </item>
+
+  <item id="45" asks-for="cause" most-plausible-alternative="2">
+    <p>bird couldn't fly </p>
+    <a1>migrated for winter </a1>
+    <a2>injured its wing </a2>
+  </item>
+
+  <item id="46" asks-for="cause" most-plausible-alternative="2">
+    <p>girl made wish </p>
+    <a1>black cat </a1>
+    <a2>shooting star </a2>
+  </item>
+
+  <item id="47" asks-for="effect" most-plausible-alternative="1">
+    <p>woman shivered as got out pool </p>
+    <a1>wrapped in a towel </a1>
+    <a2>poured some lemonade </a2>
+  </item>
+
+  <item id="48" asks-for="effect" most-plausible-alternative="2">
+    <p>nurse prepared needle for patient's injection </p>
+    <a1>bled </a1>
+    <a2>tensed up </a2>
+  </item>
+
+  <item id="49" asks-for="cause" most-plausible-alternative="2">
+    <p>man threw out bread </p>
+    <a1>fresh </a1>
+    <a2>stale </a2>
+  </item>
+
+  <item id="50" asks-for="cause" most-plausible-alternative="1">
+    <p>children knocked over lamp </p>
+    <a1>had pillow fight </a1>
+    <a2>jumped on bed </a2>
+  </item>
+
+  <item id="51" asks-for="cause" most-plausible-alternative="1">
+    <p>drank from water fountain </p>
+    <a1>was thirsty </a1>
+    <a2>felt nauseous </a2>
+  </item>
+
+  <item id="52" asks-for="effect" most-plausible-alternative="1">
+    <p>homeowners disliked nosy neighbors </p>
+    <a1>built fence around property </a1>
+    <a2>hosted barbeque in backyard </a2>
+  </item>
+
+  <item id="53" asks-for="effect" most-plausible-alternative="2">
+    <p>bodybuilder lifted weights </p>
+    <a1>gym closed </a1>
+    <a2>her muscles became fatigued </a2>
+  </item>
+
+  <item id="54" asks-for="effect" most-plausible-alternative="2">
+    <p>cook stirred in bowl </p>
+    <a1>melted </a1>
+    <a2>blended together </a2>
+  </item>
+
+  <item id="55" asks-for="effect" most-plausible-alternative="2">
+    <p>man signed document </p>
+    <a1>was voided </a1>
+    <a2>became official </a2>
+  </item>
+
+  <item id="56" asks-for="effect" most-plausible-alternative="2">
+    <p>police officer dropped </p>
+    <a1>recoiled </a1>
+    <a2>went off </a2>
+  </item>
+
+  <item id="57" asks-for="effect" most-plausible-alternative="1">
+    <p>woman felt compelled to help someone in need </p>
+    <a1>donated blood </a1>
+    <a2>wrote a poem </a2>
+  </item>
+
+  <item id="58" asks-for="effect" most-plausible-alternative="2">
+    <p>woman felt lonely </p>
+    <a1>renovated her kitchen </a1>
+    <a2>adopted a cat </a2>
+  </item>
+
+  <item id="59" asks-for="effect" most-plausible-alternative="1">
+    <p>i rubbed sandpaper on </p>
+    <a1>smooth </a1>
+    <a2>sticky </a2>
+  </item>
+
+  <item id="60" asks-for="effect" most-plausible-alternative="2">
+    <p>crowd gave a standing ovation </p>
+    <a1>signed autographs </a1>
+    <a2>reappeared on stage </a2>
+  </item>
+
+  <item id="61" asks-for="effect" most-plausible-alternative="2">
+    <p>man threw his empty can onto street </p>
+    <a1>jumped from behind </a1>
+    <a2>fined for littering </a2>
+  </item>
+
+  <item id="62" asks-for="cause" most-plausible-alternative="1">
+    <p>my stomach growled </p>
+    <a1>forgot to eat </a1>
+    <a2>was full from </a2>
+  </item>
+
+  <item id="63" asks-for="effect" most-plausible-alternative="2">
+    <p>boaters set off a flare </p>
+    <a1>drifted to shore </a1>
+    <a2>was rescued </a2>
+  </item>
+
+  <item id="64" asks-for="cause" most-plausible-alternative="1">
+    <p>man removed coat </p>
+    <a1>entered thouse </a1>
+    <a2>loosened tie </a2>
+  </item>
+
+  <item id="65" asks-for="cause" most-plausible-alternative="2">
+    <p>family took their to veterinarian </p>
+    <a1>chewed on a bone </a1>
+    <a2>injured his paw </a2>
+  </item>
+
+  <item id="66" asks-for="effect" most-plausible-alternative="1">
+    <p>woman dangled biscuit above </p>
+    <a1>jumped up </a1>
+    <a2>scratched its fur </a2>
+  </item>
+
+  <item id="67" asks-for="cause" most-plausible-alternative="1">
+    <p>i learned how play board game </p>
+    <a1>explained me </a1>
+    <a2>got wrong </a2>
+  </item>
+
+  <item id="68" asks-for="cause" most-plausible-alternative="1">
+    <p>man went away for weekend </p>
+    <a1>wanted to relax </a1>
+    <a2>felt content </a2>
+  </item>
+
+  <item id="69" asks-for="cause" most-plausible-alternative="2">
+    <p>closed </p>
+    <a1>owner helping customers </a1>
+    <a2>undergoing renovation </a2>
+  </item>
+
+  <item id="70" asks-for="cause" most-plausible-alternative="2">
+    <p>boy tuned radio </p>
+    <a1>playing rock music </a1>
+    <a2>coming in with static </a2>
+  </item>
+
+  <item id="71" asks-for="effect" most-plausible-alternative="1">
+    <p>terrorist set off </p>
+    <a1>exploded </a1>
+    <a2>was deactivated </a2>
+  </item>
+
+  <item id="72" asks-for="cause" most-plausible-alternative="2">
+    <p>handcuffed </p>
+    <a1>called for backup </a1>
+    <a2>resisted arrest </a2>
+  </item>
+
+  <item id="73" asks-for="effect" most-plausible-alternative="2">
+    <p>authorities vowed protect identity of </p>
+    <a1>struggled recall details about </a1>
+    <a2>they withheld victim's name from public </a2>
+  </item>
+
+  <item id="74" asks-for="cause" most-plausible-alternative="2">
+    <p>man's clothes fit loosely </p>
+    <a1>bought them on sale </a1>
+    <a2>lost weight </a2>
+  </item>
+
+  <item id="75" asks-for="effect" most-plausible-alternative="2">
+    <p>stopped ticking </p>
+    <a1>i took extra to get ready </a1>
+    <a2>showed wrong </a2>
+  </item>
+
+  <item id="76" asks-for="cause" most-plausible-alternative="2">
+    <p>man closed umbrella </p>
+    <a1>got out of tcar </a1>
+    <a2>approached tbuilding </a2>
+  </item>
+
+  <item id="77" asks-for="cause" most-plausible-alternative="2">
+    <p>man craved a cigarette </p>
+    <a1>his family urged him quit smoking </a1>
+    <a2>he was addicted nicotine </a2>
+  </item>
+
+  <item id="78" asks-for="effect" most-plausible-alternative="2">
+    <p>man dropped floor </p>
+    <a1>jumped up him </a1>
+    <a2>ran over to eat </a2>
+  </item>
+
+  <item id="79" asks-for="effect" most-plausible-alternative="1">
+    <p>was angry with </p>
+    <a1>spread rumor about </a1>
+    <a2>told secret to </a2>
+  </item>
+
+  <item id="80" asks-for="effect" most-plausible-alternative="2">
+    <p>hid from </p>
+    <a1>dropped case </a1>
+    <a2>remained at large </a2>
+  </item>
+
+  <item id="81" asks-for="effect" most-plausible-alternative="2">
+    <p>i tipped </p>
+    <a1>froze </a1>
+    <a2>poured out </a2>
+  </item>
+
+  <item id="82" asks-for="cause" most-plausible-alternative="2">
+    <p>woman spoke with foreign accent </p>
+    <a1>came wealthy family </a1>
+    <a2>migrated another country </a2>
+  </item>
+
+  <item id="83" asks-for="cause" most-plausible-alternative="1">
+    <p>boy's mouth stung </p>
+    <a1>ate a pepper </a1>
+    <a2>blew out tcandle </a2>
+  </item>
+
+  <item id="84" asks-for="effect" most-plausible-alternative="2">
+    <p>finished a of book </p>
+    <a1>ripped out </a1>
+    <a2>turned to </a2>
+  </item>
+
+  <item id="85" asks-for="cause" most-plausible-alternative="2">
+    <p>service at slow </p>
+    <a1>there were many empty tables </a1>
+    <a2>crowded </a2>
+  </item>
+
+  <item id="86" asks-for="effect" most-plausible-alternative="1">
+    <p>saw woman getting robbed on street </p>
+    <a1>called 911 </a1>
+    <a2>hailed cab </a2>
+  </item>
+
+  <item id="87" asks-for="cause" most-plausible-alternative="2">
+    <p>my stomach hurt </p>
+    <a1>jogged on the treadmill </a1>
+    <a2>ate birthday cake </a2>
+  </item>
+
+  <item id="88" asks-for="cause" most-plausible-alternative="1">
+    <p>put my plate in sink </p>
+    <a1>finished eating </a1>
+    <a2>skipped dinner </a2>
+  </item>
+
+  <item id="89" asks-for="cause" most-plausible-alternative="1">
+    <p>man closed book </p>
+    <a1>he finished reading </a1>
+    <a2>provoked him to think </a2>
+  </item>
+
+  <item id="90" asks-for="cause" most-plausible-alternative="2">
+    <p>boy read novel aloud to </p>
+    <a1>deaf </a1>
+    <a2>blind </a2>
+  </item>
+
+  <item id="91" asks-for="effect" most-plausible-alternative="2">
+    <p>went numb </p>
+    <a1>put shoes on </a1>
+    <a2>shook </a2>
+  </item>
+
+  <item id="92" asks-for="effect" most-plausible-alternative="1">
+    <p>got child to smile </p>
+    <a1>snapped photo </a1>
+    <a2>changed pose </a2>
+  </item>
+
+  <item id="93" asks-for="cause" most-plausible-alternative="1">
+    <p>window opaque </p>
+    <a1>glass stained </a1>
+    <a2>blinds were open </a2>
+  </item>
+
+  <item id="94" asks-for="cause" most-plausible-alternative="1">
+    <p>i slipped on floor </p>
+    <a1>wet </a1>
+    <a2>cracked </a2>
+  </item>
+
+  <item id="95" asks-for="effect" most-plausible-alternative="2">
+    <p>man slid razor across chin </p>
+    <a1>grew </a1>
+    <a2>disappeared </a2>
+  </item>
+
+  <item id="96" asks-for="cause" most-plausible-alternative="2">
+    <p>woman took family on vacation </p>
+    <a1>husband got laid off </a1>
+    <a2>she received a salary bonus </a2>
+  </item>
+
+  <item id="97" asks-for="cause" most-plausible-alternative="2">
+    <p>woman awakened </p>
+    <a1>she took sleeping pills </a1>
+    <a2>her husband was snoring </a2>
+  </item>
+
+  <item id="98" asks-for="effect" most-plausible-alternative="2">
+    <p>woman sensed a pleasant smell </p>
+    <a1>remembered to take medication </a1>
+    <a2>was reminded of childhood </a2>
+  </item>
+
+  <item id="99" asks-for="cause" most-plausible-alternative="2">
+    <p>bar closed </p>
+    <a1>crowded </a1>
+    <a2>3 am </a2>
+  </item>
+
+  <item id="100" asks-for="cause" most-plausible-alternative="2">
+    <p>driver got pulled over by police </p>
+    <a1>parking </a1>
+    <a2>speeding </a2>
+  </item>
+
+  <item id="101" asks-for="effect" most-plausible-alternative="1">
+    <p>teacher took roll </p>
+    <a1>identified that were absent </a1>
+    <a2>gave her a pop quiz </a2>
+  </item>
+
+  <item id="102" asks-for="effect" most-plausible-alternative="2">
+    <p>i pushed pendulum </p>
+    <a1>slowed to a stop </a1>
+    <a2>swung back and forth </a2>
+  </item>
+
+  <item id="103" asks-for="effect" most-plausible-alternative="2">
+    <p>child kicked of </p>
+    <a1>towered boy's head </a1>
+    <a2>scattered all rug </a2>
+  </item>
+
+  <item id="104" asks-for="cause" most-plausible-alternative="2">
+    <p>teenager ran away from home </p>
+    <a1>he relied on </a1>
+    <a2>abused him </a2>
+  </item>
+
+  <item id="105" asks-for="cause" most-plausible-alternative="1">
+    <p>botched job interview </p>
+    <a1>interviewer asked difficult </a1>
+    <a2>anticipated interviewer's </a2>
+  </item>
+
+  <item id="106" asks-for="cause" most-plausible-alternative="1">
+    <p>pharmaceutical company recalled drug </p>
+    <a1>reported dangerous side effects </a1>
+    <a2>got refills on their prescriptions </a2>
+  </item>
+
+  <item id="107" asks-for="effect" most-plausible-alternative="2">
+    <p>man looked at his watch </p>
+    <a1>forgot something </a1>
+    <a2>was early </a2>
+  </item>
+
+  <item id="108" asks-for="cause" most-plausible-alternative="1">
+    <p>dabbed with a paper towel </p>
+    <a1>spilled juice on </a1>
+    <a2>was permanently stained </a2>
+  </item>
+
+  <item id="109" asks-for="cause" most-plausible-alternative="2">
+    <p>bartender refused to serve </p>
+    <a1>alone </a1>
+    <a2>drunk </a2>
+  </item>
+
+  <item id="110" asks-for="effect" most-plausible-alternative="2">
+    <p>was confused by professor's lecture </p>
+    <a1>paid attention to </a1>
+    <a2>asked questions </a2>
+  </item>
+
+  <item id="111" asks-for="effect" most-plausible-alternative="1">
+    <p>book was deemed inappropriate for children </p>
+    <a1>schools banned from its libraries </a1>
+    <a2>teachers required students to read </a2>
+  </item>
+
+  <item id="112" asks-for="effect" most-plausible-alternative="1">
+    <p>man begged for forgiveness </p>
+    <a1>took pity on </a1>
+    <a2>joked around with </a2>
+  </item>
+
+  <item id="113" asks-for="effect" most-plausible-alternative="1">
+    <p>received a in mail </p>
+    <a1>triggered my curiosity </a1>
+    <a2>took to post office </a2>
+  </item>
+
+  <item id="114" asks-for="effect" most-plausible-alternative="1">
+    <p>surfer caught </p>
+    <a1>carried to shore </a1>
+    <a2>she paddled board into ocean </a2>
+  </item>
+
+  <item id="115" asks-for="effect" most-plausible-alternative="2">
+    <p>disarmed </p>
+    <a1>congratulated </a1>
+    <a2>won </a2>
+  </item>
+
+  <item id="116" asks-for="cause" most-plausible-alternative="1">
+    <p>moved to new city </p>
+    <a1>found better-paying job </a1>
+    <a2>my son was born </a2>
+  </item>
+
+  <item id="117" asks-for="cause" most-plausible-alternative="1">
+    <p>avoided giving a straight answer </p>
+    <a1>made me uncomfortable </a1>
+    <a2>wanted be honest </a2>
+  </item>
+
+  <item id="118" asks-for="cause" most-plausible-alternative="1">
+    <p>student received detention </p>
+    <a1>he talked back to </a1>
+    <a2>graded his homework </a2>
+  </item>
+
+  <item id="119" asks-for="cause" most-plausible-alternative="1">
+    <p>boy's hands shaking </p>
+    <a1>he planned to ask girl out </a1>
+    <a2>his palms cold and sweaty </a2>
+  </item>
+
+  <item id="120" asks-for="cause" most-plausible-alternative="2">
+    <p>fans stadium cheered </p>
+    <a1>game ended a tie </a1>
+    <a2>player scored </a2>
+  </item>
+
+  <item id="121" asks-for="effect" most-plausible-alternative="2">
+    <p>girl went down hill on </p>
+    <a1>swerved </a1>
+    <a2>sped up </a2>
+  </item>
+
+  <item id="122" asks-for="effect" most-plausible-alternative="1">
+    <p>a man cut in front of me in long line </p>
+    <a1>confronted </a1>
+    <a2>smiled at </a2>
+  </item>
+
+  <item id="123" asks-for="cause" most-plausible-alternative="1">
+    <p>inside of went dark </p>
+    <a1>travelled through a tunnel </a1>
+    <a2>ran off tracks </a2>
+  </item>
+
+  <item id="124" asks-for="effect" most-plausible-alternative="1">
+    <p>man contemplated painting </p>
+    <a1>felt in awe </a1>
+    <a2>collapsed </a2>
+  </item>
+
+  <item id="125" asks-for="cause" most-plausible-alternative="2">
+    <p>turtle hid in its shell </p>
+    <a1>ate fish </a1>
+    <a2>detected predator </a2>
+  </item>
+
+  <item id="126" asks-for="cause" most-plausible-alternative="2">
+    <p>girl handed down her to her younger sister </p>
+    <a1>were tattered </a1>
+    <a2>she outgrew </a2>
+  </item>
+
+  <item id="127" asks-for="effect" most-plausible-alternative="2">
+    <p>several witnesses of crime testified against </p>
+    <a1>acquitted </a1>
+    <a2>convicted </a2>
+  </item>
+
+  <item id="128" asks-for="cause" most-plausible-alternative="2">
+    <p>parents left children with a babysitter </p>
+    <a1>youngest child started attending preschool </a1>
+    <a2>they made plans to celebrate anniversary </a2>
+  </item>
+
+  <item id="129" asks-for="cause" most-plausible-alternative="2">
+    <p>trip took long time </p>
+    <a1>talked whole way </a1>
+    <a2>made wrong turn </a2>
+  </item>
+
+  <item id="130" asks-for="effect" most-plausible-alternative="1">
+    <p>was heavily advertised </p>
+    <a1>consumers recognized </a1>
+    <a2>became outdated </a2>
+  </item>
+
+  <item id="131" asks-for="effect" most-plausible-alternative="1">
+    <p>i rubbed between </p>
+    <a1>foamed </a1>
+    <a2>went numb </a2>
+  </item>
+
+  <item id="132" asks-for="effect" most-plausible-alternative="1">
+    <p>cowgirl threw her towards </p>
+    <a1>grabbed onto </a1>
+    <a2>trotted into barn </a2>
+  </item>
+
+  <item id="133" asks-for="effect" most-plausible-alternative="1">
+    <p>group overlooked woman's faux pas </p>
+    <a1>was relieved </a1>
+    <a2>apologized </a2>
+  </item>
+
+  <item id="134" asks-for="effect" most-plausible-alternative="1">
+    <p>girl came an unfamiliar word her </p>
+    <a1>looked term up dictionary </a1>
+    <a2>chucked room </a2>
+  </item>
+
+  <item id="135" asks-for="effect" most-plausible-alternative="1">
+    <p>man became disabled </p>
+    <a1>offered financial support </a1>
+    <a2>cut off contact with </a2>
+  </item>
+
+  <item id="136" asks-for="effect" most-plausible-alternative="2">
+    <p>flashlight was dead </p>
+    <a1>took it apart </a1>
+    <a2>replaced batteries </a2>
+  </item>
+
+  <item id="137" asks-for="effect" most-plausible-alternative="1">
+    <p>sprayed </p>
+    <a1>emitted a foul smell </a1>
+    <a2>roamed woods </a2>
+  </item>
+
+  <item id="138" asks-for="effect" most-plausible-alternative="1">
+    <p>i scratched skin </p>
+    <a1>itch went away </a1>
+    <a2>scar faded </a2>
+  </item>
+
+  <item id="139" asks-for="cause" most-plausible-alternative="2">
+    <p>i wrote thank-you note to my grandmother </p>
+    <a1>became forgetful </a1>
+    <a2>sent me gift </a2>
+  </item>
+
+  <item id="140" asks-for="effect" most-plausible-alternative="2">
+    <p>a burglar broke into house </p>
+    <a1>homeowners were asleep </a1>
+    <a2>security alarm went off </a2>
+  </item>
+
+  <item id="141" asks-for="effect" most-plausible-alternative="2">
+    <p>i held for entering behind </p>
+    <a1>slammed shut </a1>
+    <a2>thanked </a2>
+  </item>
+
+  <item id="142" asks-for="effect" most-plausible-alternative="1">
+    <p>mirror in bathroom fogged up </p>
+    <a1>turned on fan </a1>
+    <a2>applied her makeup </a2>
+  </item>
+
+  <item id="143" asks-for="cause" most-plausible-alternative="2">
+    <p>security guard tackled </p>
+    <a1>reached into his pocket </a1>
+    <a2>displayed a weapon </a2>
+  </item>
+
+  <item id="144" asks-for="effect" most-plausible-alternative="2">
+    <p>driver rotated steering wheel </p>
+    <a1>halted </a1>
+    <a2>turned </a2>
+  </item>
+
+  <item id="145" asks-for="cause" most-plausible-alternative="1">
+    <p>army surrendered battle </p>
+    <a1>were outnumbered </a1>
+    <a2>stormed city </a2>
+  </item>
+
+  <item id="146" asks-for="effect" most-plausible-alternative="2">
+    <p>navy bombed </p>
+    <a1>crashed into pier </a1>
+    <a2>ship's debris sunk in sea </a2>
+  </item>
+
+  <item id="147" asks-for="cause" most-plausible-alternative="2">
+    <p>i ironed my shirt </p>
+    <a1>clean </a1>
+    <a2>wrinkled </a2>
+  </item>
+
+  <item id="148" asks-for="effect" most-plausible-alternative="1">
+    <p>girl felt dizzy </p>
+    <a1>lost her balance </a1>
+    <a2>did stretches </a2>
+  </item>
+
+  <item id="149" asks-for="cause" most-plausible-alternative="2">
+    <p>driver pulled over to side of road </p>
+    <a1>went through an intersection </a1>
+    <a2>noticed a stranded vehicle </a2>
+  </item>
+
+  <item id="150" asks-for="cause" most-plausible-alternative="1">
+    <p>hospital sent patient home </p>
+    <a1>symptoms cleared up </a1>
+    <a2>family visited him </a2>
+  </item>
+
+  <item id="151" asks-for="cause" most-plausible-alternative="1">
+    <p>child caught a life-threatening illness </p>
+    <a1>didn't get vaccinated </a1>
+    <a2>was adopted </a2>
+  </item>
+
+  <item id="152" asks-for="effect" most-plausible-alternative="2">
+    <p>found empty seats in theatre </p>
+    <a1>film began </a1>
+    <a2>sat down </a2>
+  </item>
+
+  <item id="153" asks-for="effect" most-plausible-alternative="2">
+    <p>parents recognized their daughter's creativity </p>
+    <a1>taught how ride a bike </a1>
+    <a2>encouraged become an artist </a2>
+  </item>
+
+  <item id="154" asks-for="effect" most-plausible-alternative="2">
+    <p>boy turned on </p>
+    <a1>became warm </a1>
+    <a2>came off </a2>
+  </item>
+
+  <item id="155" asks-for="cause" most-plausible-alternative="2">
+    <p>woman received a diploma </p>
+    <a1>enrolled in </a1>
+    <a2>graduated from </a2>
+  </item>
+
+  <item id="156" asks-for="cause" most-plausible-alternative="2">
+    <p>chugged pitcher of water </p>
+    <a1>walked upstairs </a1>
+    <a2>ran five miles </a2>
+  </item>
+
+  <item id="157" asks-for="effect" most-plausible-alternative="1">
+    <p>came upon a on sidewalk </p>
+    <a1>leapt over </a1>
+    <a2>played in </a2>
+  </item>
+
+  <item id="158" asks-for="cause" most-plausible-alternative="1">
+    <p>covered her ears </p>
+    <a1>fire alarm blared </a1>
+    <a2>smelled smoke </a2>
+  </item>
+
+  <item id="159" asks-for="effect" most-plausible-alternative="1">
+    <p>archeologist dug up site </p>
+    <a1>excavated ancient artifacts </a1>
+    <a2>read about site's history </a2>
+  </item>
+
+  <item id="160" asks-for="cause" most-plausible-alternative="1">
+    <p>audience booed comedian off stage </p>
+    <a1>told a racist joke </a1>
+    <a2>entertained taudience </a2>
+  </item>
+
+  <item id="161" asks-for="cause" most-plausible-alternative="2">
+    <p>coach gave his high five </p>
+    <a1>got penalty </a1>
+    <a2>scored point </a2>
+  </item>
+
+  <item id="162" asks-for="effect" most-plausible-alternative="2">
+    <p>i tossed upwards </p>
+    <a1>rolled across ground </a1>
+    <a2>hit ceiling </a2>
+  </item>
+
+  <item id="163" asks-for="effect" most-plausible-alternative="2">
+    <p>breath smelled of garlic </p>
+    <a1>wiped mouth </a1>
+    <a2>brushed teeth </a2>
+  </item>
+
+  <item id="164" asks-for="effect" most-plausible-alternative="1">
+    <p>man was lost </p>
+    <a1>asked for directions </a1>
+    <a2>drew a map </a2>
+  </item>
+
+  <item id="165" asks-for="effect" most-plausible-alternative="2">
+    <p>pulled mother's hair </p>
+    <a1>burped </a1>
+    <a2>mother grimaced </a2>
+  </item>
+
+  <item id="166" asks-for="effect" most-plausible-alternative="1">
+    <p>stood on one foot </p>
+    <a1>my balance wavered </a1>
+    <a2>kneeled down </a2>
+  </item>
+
+  <item id="167" asks-for="effect" most-plausible-alternative="1">
+    <p>i pushed gas pedal </p>
+    <a1>accelerated </a1>
+    <a2>door opened </a2>
+  </item>
+
+  <item id="168" asks-for="cause" most-plausible-alternative="1">
+    <p>my car was towed </p>
+    <a1>parked illegally </a1>
+    <a2>jumped the battery </a2>
+  </item>
+
+  <item id="169" asks-for="cause" most-plausible-alternative="2">
+    <p>woman got away with crime </p>
+    <a1>her accomplice was apprehended </a1>
+    <a2>she destroyed evidence </a2>
+  </item>
+
+  <item id="170" asks-for="cause" most-plausible-alternative="1">
+    <p>dust came off </p>
+    <a1>wiped with a cloth </a1>
+    <a2>removed books from </a2>
+  </item>
+
+  <item id="171" asks-for="effect" most-plausible-alternative="2">
+    <p>motorcyclist twisted throttle </p>
+    <a1>coasted to a halt </a1>
+    <a2>shot forward </a2>
+  </item>
+
+  <item id="172" asks-for="effect" most-plausible-alternative="2">
+    <p>teacher caught chewing </p>
+    <a1>stuck to student's shoe </a1>
+    <a2>spit out </a2>
+  </item>
+
+  <item id="173" asks-for="effect" most-plausible-alternative="1">
+    <p>host served dinner to </p>
+    <a1>were gracious </a1>
+    <a2>went hungry </a2>
+  </item>
+
+  <item id="174" asks-for="cause" most-plausible-alternative="1">
+    <p>boy climbed </p>
+    <a1>cat got stuck </a1>
+    <a2>bird built nest </a2>
+  </item>
+
+  <item id="175" asks-for="cause" most-plausible-alternative="2">
+    <p>squeaked </p>
+    <a1>carried office </a1>
+    <a2>scooted closer desk </a2>
+  </item>
+
+  <item id="176" asks-for="cause" most-plausible-alternative="1">
+    <p>father shut off children's television </p>
+    <a1>it was bedtime for </a1>
+    <a2>were watching cartoons </a2>
+  </item>
+
+  <item id="177" asks-for="cause" most-plausible-alternative="1">
+    <p>man held his breath </p>
+    <a1>went underwater </a1>
+    <a2>treaded water </a2>
+  </item>
+
+  <item id="178" asks-for="effect" most-plausible-alternative="2">
+    <p>clumsily bumped into stranger </p>
+    <a1>ran away </a1>
+    <a2>apologized to him </a2>
+  </item>
+
+  <item id="179" asks-for="cause" most-plausible-alternative="2">
+    <p>boat capsized </p>
+    <a1>captain raised sail </a1>
+    <a2>it was caught in a hurricane </a2>
+  </item>
+
+  <item id="180" asks-for="cause" most-plausible-alternative="2">
+    <p>motsuspected that son was lying </p>
+    <a1>refused to talk to </a1>
+    <a2>avoided making eye contact with </a2>
+  </item>
+
+  <item id="181" asks-for="cause" most-plausible-alternative="2">
+    <p>young woman was denied entrance into bar </p>
+    <a1>friends stood up </a1>
+    <a2>she forgot id </a2>
+  </item>
+
+  <item id="182" asks-for="cause" most-plausible-alternative="2">
+    <p>crater formed on </p>
+    <a1>passed by </a1>
+    <a2>collided with </a2>
+  </item>
+
+  <item id="183" asks-for="effect" most-plausible-alternative="2">
+    <p>planted in </p>
+    <a1>watered </a1>
+    <a2>sprouted </a2>
+  </item>
+
+  <item id="184" asks-for="cause" most-plausible-alternative="1">
+    <p>benefactor requested stay anonymous </p>
+    <a1>wanted maintain privacy </a1>
+    <a2>supported tcause behind donation </a2>
+  </item>
+
+  <item id="185" asks-for="effect" most-plausible-alternative="2">
+    <p>woman felt ashamed of on her face </p>
+    <a1>explained to strangers </a1>
+    <a2>hid with makeup </a2>
+  </item>
+
+  <item id="186" asks-for="effect" most-plausible-alternative="1">
+    <p>doctor x-rayed </p>
+    <a1>discovered that twas broken </a1>
+    <a2>put tin a cast </a2>
+  </item>
+
+  <item id="187" asks-for="cause" most-plausible-alternative="2">
+    <p>boy filled bucket with </p>
+    <a1>collecting seashells in t </a1>
+    <a2>building a castle </a2>
+  </item>
+
+  <item id="188" asks-for="effect" most-plausible-alternative="2">
+    <p>woman upgraded her hardware </p>
+    <a1>deleted old files </a1>
+    <a2>installed new software </a2>
+  </item>
+
+  <item id="189" asks-for="effect" most-plausible-alternative="2">
+    <p>girl performed in a </p>
+    <a1>showed how </a1>
+    <a2>came watch </a2>
+  </item>
+
+  <item id="190" asks-for="effect" most-plausible-alternative="1">
+    <p>was wailing in his crib </p>
+    <a1>picked up </a1>
+    <a2>crawled to </a2>
+  </item>
+
+  <item id="191" asks-for="effect" most-plausible-alternative="1">
+    <p>woman had a religious awakening </p>
+    <a1>going to church </a1>
+    <a2>travelling abroad </a2>
+  </item>
+
+  <item id="192" asks-for="effect" most-plausible-alternative="1">
+    <p>bureau were cluttered </p>
+    <a1>threw away unnecessary contents </a1>
+    <a2>locked shut </a2>
+  </item>
+
+  <item id="193" asks-for="cause" most-plausible-alternative="1">
+    <p>student flaunted his test grade to his classmates </p>
+    <a1>received a perfect score </a1>
+    <a2>feigned interest in tclass </a2>
+  </item>
+
+  <item id="194" asks-for="cause" most-plausible-alternative="1">
+    <p>boy felt homesick </p>
+    <a1>went away to camp </a1>
+    <a2>bickered with his sister </a2>
+  </item>
+
+  <item id="195" asks-for="cause" most-plausible-alternative="1">
+    <p>rocket flew up into sky </p>
+    <a1>launched </a1>
+    <a2>designed </a2>
+  </item>
+
+  <item id="196" asks-for="effect" most-plausible-alternative="2">
+    <p>boy murmured reply </p>
+    <a1>whisper </a1>
+    <a2>speak up </a2>
+  </item>
+
+  <item id="197" asks-for="cause" most-plausible-alternative="1">
+    <p>my flight got delayed </p>
+    <a1>tornadoes were sighted in the area </a1>
+    <a2>i was held up at airport security </a2>
+  </item>
+
+  <item id="198" asks-for="cause" most-plausible-alternative="2">
+    <p>smoke alarm went off </p>
+    <a1>lit a candle </a1>
+    <a2>burnt my dinner </a2>
+  </item>
+
+  <item id="199" asks-for="effect" most-plausible-alternative="2">
+    <p>vase broke </p>
+    <a1>stenciled </a1>
+    <a2>glued back together </a2>
+  </item>
+
+  <item id="200" asks-for="cause" most-plausible-alternative="1">
+    <p>woman felt an electric shock </p>
+    <a1>grabbed doorknob </a1>
+    <a2>pounded on door </a2>
+  </item>
+
+  <item id="201" asks-for="cause" most-plausible-alternative="1">
+    <p>man had lipstick on his cheek </p>
+    <a1>kissed </a1>
+    <a2>made blush </a2>
+  </item>
+
+  <item id="202" asks-for="cause" most-plausible-alternative="1">
+    <p>jumped instinctively fright </p>
+    <a1>sensed someone approaching me from behind </a1>
+    <a2>heard people chuckling the adjacent room </a2>
+  </item>
+
+  <item id="203" asks-for="effect" most-plausible-alternative="2">
+    <p>gardener wanted his plants to flourish </p>
+    <a1>planted a variety of seeds </a1>
+    <a2>put fertilizer in tsoil </a2>
+  </item>
+
+  <item id="204" asks-for="cause" most-plausible-alternative="2">
+    <p>a in house burst </p>
+    <a1>was unsanitary </a1>
+    <a2>froze </a2>
+  </item>
+
+  <item id="205" asks-for="effect" most-plausible-alternative="1">
+    <p>waistband my pants was loose </p>
+    <a1>belt </a1>
+    <a2>hat </a2>
+  </item>
+
+  <item id="206" asks-for="cause" most-plausible-alternative="2">
+    <p>company lost money </p>
+    <a1>received positive consumer reviews </a1>
+    <a2>some of were manufactured defectively </a2>
+  </item>
+
+  <item id="207" asks-for="cause" most-plausible-alternative="1">
+    <p>tenants were evicted from apartment </p>
+    <a1>neglected to pay rent </a1>
+    <a2>got along with landlord </a2>
+  </item>
+
+  <item id="208" asks-for="effect" most-plausible-alternative="2">
+    <p>man woke up a toothache </p>
+    <a1>missed t </a1>
+    <a2>made t </a2>
+  </item>
+
+  <item id="209" asks-for="cause" most-plausible-alternative="1">
+    <p>team lost game </p>
+    <a1>best player was injured </a1>
+    <a2>coach pumped them up </a2>
+  </item>
+
+  <item id="210" asks-for="cause" most-plausible-alternative="1">
+    <p>parents forbade their children from watching </p>
+    <a1>rated r </a1>
+    <a2>animated </a2>
+  </item>
+
+  <item id="211" asks-for="cause" most-plausible-alternative="1">
+    <p>woman deleted email </p>
+    <a1>tried to solicit money </a1>
+    <a2>requested a response </a2>
+  </item>
+
+  <item id="212" asks-for="cause" most-plausible-alternative="2">
+    <p>eliminated woman from list of suspects </p>
+    <a1>interrogated </a1>
+    <a2>alibi checked out </a2>
+  </item>
+
+  <item id="213" asks-for="effect" most-plausible-alternative="2">
+    <p>climbers reached peak of mountain </p>
+    <a1>encountered an avalanche </a1>
+    <a2>congratulated each other </a2>
+  </item>
+
+  <item id="214" asks-for="effect" most-plausible-alternative="1">
+    <p>vandals threw a rock at </p>
+    <a1>cracked </a1>
+    <a2>fogged up </a2>
+  </item>
+
+  <item id="215" asks-for="effect" most-plausible-alternative="1">
+    <p>fortune teller's revelations were convincing </p>
+    <a1>she received returning </a1>
+    <a2>asked for refunds </a2>
+  </item>
+
+  <item id="216" asks-for="cause" most-plausible-alternative="2">
+    <p>woman's makeup smeared </p>
+    <a1>brushed hair </a1>
+    <a2>wiped eyes </a2>
+  </item>
+
+  <item id="217" asks-for="effect" most-plausible-alternative="1">
+    <p>company's profits started level off </p>
+    <a1>increased marketing efforts for new products </a1>
+    <a2>moved headquarters a suburban location </a2>
+  </item>
+
+  <item id="218" asks-for="effect" most-plausible-alternative="2">
+    <p>answer on exam was incorrect </p>
+    <a1>added bonus to </a1>
+    <a2>subtracted off </a2>
+  </item>
+
+  <item id="219" asks-for="effect" most-plausible-alternative="2">
+    <p>girl wanted to demonstrate proper etiquette </p>
+    <a1>threw away after </a1>
+    <a2>put on lap before </a2>
+  </item>
+
+  <item id="220" asks-for="effect" most-plausible-alternative="2">
+    <p>flashed his to </p>
+    <a1>confiscated detective's </a1>
+    <a2>let enter crime scene </a2>
+  </item>
+
+  <item id="221" asks-for="effect" most-plausible-alternative="2">
+    <p>wanted to make mothappy </p>
+    <a1>ate cookies motbaked </a1>
+    <a2>picked a flower for mot </a2>
+  </item>
+
+  <item id="222" asks-for="effect" most-plausible-alternative="2">
+    <p>toddler started crying </p>
+    <a1>took away </a1>
+    <a2>gave a </a2>
+  </item>
+
+  <item id="223" asks-for="effect" most-plausible-alternative="1">
+    <p>stranger cried out me in a foreign language </p>
+    <a1>stared blankly at </a1>
+    <a2>stopped chat with </a2>
+  </item>
+
+  <item id="224" asks-for="effect" most-plausible-alternative="2">
+    <p>uncovered incriminating evidence against </p>
+    <a1>avoided </a1>
+    <a2>blackmailed </a2>
+  </item>
+
+  <item id="225" asks-for="effect" most-plausible-alternative="1">
+    <p>girl pushed herself off top of </p>
+    <a1>glided down </a1>
+    <a2>crawled up </a2>
+  </item>
+
+  <item id="226" asks-for="cause" most-plausible-alternative="2">
+    <p>my jaw dropped open </p>
+    <a1>unhappy </a1>
+    <a2>shocked </a2>
+  </item>
+
+  <item id="227" asks-for="effect" most-plausible-alternative="2">
+    <p>child disobeyed </p>
+    <a1>hugged </a1>
+    <a2>punished </a2>
+  </item>
+
+  <item id="228" asks-for="effect" most-plausible-alternative="1">
+    <p>looked filthy </p>
+    <a1>to wash </a1>
+    <a2>he in for a paint job </a2>
+  </item>
+
+  <item id="229" asks-for="effect" most-plausible-alternative="2">
+    <p>my friend for my ticket </p>
+    <a1>sought a refund </a1>
+    <a2>her back </a2>
+  </item>
+
+  <item id="230" asks-for="cause" most-plausible-alternative="2">
+    <p>woman wrongly convicted for crime </p>
+    <a1>jury fair </a1>
+    <a2>she framed </a2>
+  </item>
+
+  <item id="231" asks-for="effect" most-plausible-alternative="1">
+    <p>girl applied scissors to </p>
+    <a1>sliced apart </a1>
+    <a2>crinkled </a2>
+  </item>
+
+  <item id="232" asks-for="cause" most-plausible-alternative="2">
+    <p>woman visited her family </p>
+    <a1>distrusted </a1>
+    <a2>missed </a2>
+  </item>
+
+  <item id="233" asks-for="effect" most-plausible-alternative="2">
+    <p>i burst into a fit of laughter </p>
+    <a1>teeth began to chatter </a1>
+    <a2>eyes welled up with tears </a2>
+  </item>
+
+  <item id="234" asks-for="effect" most-plausible-alternative="1">
+    <p>principal implemented a dress code </p>
+    <a1>protested decision </a1>
+    <a2>were expelled from </a2>
+  </item>
+
+  <item id="235" asks-for="cause" most-plausible-alternative="1">
+    <p>balloon expanded </p>
+    <a1>blew into </a1>
+    <a2>pricked </a2>
+  </item>
+
+  <item id="236" asks-for="effect" most-plausible-alternative="2">
+    <p>wanted to lighten mood of conversation </p>
+    <a1>remained quiet </a1>
+    <a2>told a joke </a2>
+  </item>
+
+  <item id="237" asks-for="cause" most-plausible-alternative="2">
+    <p>man broke toe </p>
+    <a1>got hole in sock </a1>
+    <a2>dropped hammer on foot </a2>
+  </item>
+
+  <item id="238" asks-for="effect" most-plausible-alternative="2">
+    <p>man had an attack of conscience </p>
+    <a1>manipulated friend </a1>
+    <a2>admitted indiscretion </a2>
+  </item>
+
+  <item id="239" asks-for="effect" most-plausible-alternative="1">
+    <p>a fistfight broke out in hall of school </p>
+    <a1>suspended students involved </a1>
+    <a2>called off classes for day </a2>
+  </item>
+
+  <item id="240" asks-for="cause" most-plausible-alternative="1">
+    <p>photo albums collected dust in attic </p>
+    <a1>they remained untouched for years </a1>
+    <a2>family reminisced over photos </a2>
+  </item>
+
+  <item id="241" asks-for="cause" most-plausible-alternative="1">
+    <p>i got distracted from my conversation with </p>
+    <a1>everyone in room talking </a1>
+    <a2>telling a funny story </a2>
+  </item>
+
+  <item id="242" asks-for="effect" most-plausible-alternative="1">
+    <p>put coins in washing at laundromat </p>
+    <a1>powered on </a1>
+    <a2>ran out of laundry detergent </a2>
+  </item>
+
+  <item id="243" asks-for="cause" most-plausible-alternative="1">
+    <p>family postponed barbeque </p>
+    <a1>forecast called for storms </a1>
+    <a2>it was a holiday weekend </a2>
+  </item>
+
+  <item id="244" asks-for="cause" most-plausible-alternative="2">
+    <p>air leaked out of beach ball </p>
+    <a1>inflated </a1>
+    <a2>there a hole in </a2>
+  </item>
+
+  <item id="245" asks-for="effect" most-plausible-alternative="1">
+    <p>our group's conversation gradually lulled to silence </p>
+    <a1>felt awkward </a1>
+    <a2>became enraged </a2>
+  </item>
+
+  <item id="246" asks-for="effect" most-plausible-alternative="1">
+    <p>i clenched candy in my fist </p>
+    <a1>crinkled </a1>
+    <a2>ripped </a2>
+  </item>
+
+  <item id="247" asks-for="effect" most-plausible-alternative="1">
+    <p>woman pressed down on piano </p>
+    <a1>a sound played </a1>
+    <a2>got stuck </a2>
+  </item>
+
+  <item id="248" asks-for="effect" most-plausible-alternative="2">
+    <p>girl met her favorite actor </p>
+    <a1>went to see new film </a1>
+    <a2>asked him for autograph </a2>
+  </item>
+
+  <item id="249" asks-for="cause" most-plausible-alternative="2">
+    <p>vehicles travelled slowly </p>
+    <a1>cloudy </a1>
+    <a2>foggy </a2>
+  </item>
+
+  <item id="250" asks-for="cause" most-plausible-alternative="1">
+    <p>shattered floor </p>
+    <a1>dropped from ceiling </a1>
+    <a2>chandelier's lights flickered and off </a2>
+  </item>
+
+  <item id="251" asks-for="cause" most-plausible-alternative="2">
+    <p>cat purred </p>
+    <a1>scratched me </a1>
+    <a2>i petted </a2>
+  </item>
+
+  <item id="252" asks-for="effect" most-plausible-alternative="1">
+    <p>boy pushed </p>
+    <a1>tattled on him </a1>
+    <a2>they played hide and seek </a2>
+  </item>
+
+  <item id="253" asks-for="effect" most-plausible-alternative="1">
+    <p>man gained weight </p>
+    <a1>suit altered </a1>
+    <a2>shoes shined </a2>
+  </item>
+
+  <item id="254" asks-for="effect" most-plausible-alternative="2">
+    <p>clouds looked dark </p>
+    <a1>laptop </a1>
+    <a2>umbrella </a2>
+  </item>
+
+  <item id="255" asks-for="effect" most-plausible-alternative="1">
+    <p>engine of was faulty </p>
+    <a1>crashed </a1>
+    <a2>pilot made an error </a2>
+  </item>
+
+  <item id="256" asks-for="cause" most-plausible-alternative="2">
+    <p>cars moved to shoulder of road </p>
+    <a1>traffic light turned green </a1>
+    <a2>a screaming ambulance approached </a2>
+  </item>
+
+  <item id="257" asks-for="cause" most-plausible-alternative="1">
+    <p>boy lost hold of of soap </p>
+    <a1>was slippery </a1>
+    <a2>emitted a fragrance </a2>
+  </item>
+
+  <item id="258" asks-for="effect" most-plausible-alternative="1">
+    <p>buttmy shirt fell off </p>
+    <a1>sewed </a1>
+    <a2>glued </a2>
+  </item>
+
+  <item id="259" asks-for="cause" most-plausible-alternative="2">
+    <p>celebrity wore sunglasses </p>
+    <a1>thank her fans </a1>
+    <a2>avoid recognition </a2>
+  </item>
+
+  <item id="260" asks-for="effect" most-plausible-alternative="1">
+    <p>grandmother passed away </p>
+    <a1>funeral </a1>
+    <a2>reunion </a2>
+  </item>
+
+  <item id="261" asks-for="effect" most-plausible-alternative="1">
+    <p>pulled over </p>
+    <a1>offered a bribe </a1>
+    <a2>sued </a2>
+  </item>
+
+  <item id="262" asks-for="cause" most-plausible-alternative="1">
+    <p>man revealed personal information to </p>
+    <a1>trusted t </a1>
+    <a2>disagreed with t </a2>
+  </item>
+
+  <item id="263" asks-for="cause" most-plausible-alternative="1">
+    <p>fell unconscious </p>
+    <a1>struck in head </a1>
+    <a2>took man's wallet </a2>
+  </item>
+
+  <item id="264" asks-for="cause" most-plausible-alternative="2">
+    <p>i approached man </p>
+    <a1>busy </a1>
+    <a2>familiar </a2>
+  </item>
+
+  <item id="265" asks-for="cause" most-plausible-alternative="1">
+    <p>leader received praise </p>
+    <a1>fought poverty </a1>
+    <a2>raised taxes </a2>
+  </item>
+
+  <item id="266" asks-for="effect" most-plausible-alternative="2">
+    <p>man read cartoon in newspaper </p>
+    <a1>sipped coffee </a1>
+    <a2>chuckled </a2>
+  </item>
+
+  <item id="267" asks-for="cause" most-plausible-alternative="2">
+    <p>my was overflowing with letters </p>
+    <a1>the lid the broke </a1>
+    <a2>i went vacatifor two weeks </a2>
+  </item>
+
+  <item id="268" asks-for="effect" most-plausible-alternative="2">
+    <p>bananas ripened </p>
+    <a1>squeezed </a1>
+    <a2>ate </a2>
+  </item>
+
+  <item id="269" asks-for="effect" most-plausible-alternative="2">
+    <p>chef pressed down on </p>
+    <a1>crumbled </a1>
+    <a2>flattened </a2>
+  </item>
+
+  <item id="270" asks-for="cause" most-plausible-alternative="2">
+    <p>hardened </p>
+    <a1>rolled into a ball </a1>
+    <a2>put in oven </a2>
+  </item>
+
+  <item id="271" asks-for="cause" most-plausible-alternative="1">
+    <p>my feet were blistered </p>
+    <a1>hiking </a1>
+    <a2>swimming </a2>
+  </item>
+
+  <item id="272" asks-for="effect" most-plausible-alternative="2">
+    <p>woman betrayed </p>
+    <a1>sent a greeting card </a1>
+    <a2>cut off contact with </a2>
+  </item>
+
+  <item id="273" asks-for="cause" most-plausible-alternative="1">
+    <p>man took notice woman </p>
+    <a1>caught a whiff perfume </a1>
+    <a2>had his back turned to </a2>
+  </item>
+
+  <item id="274" asks-for="effect" most-plausible-alternative="1">
+    <p>woman and her boyfriend got into fight </p>
+    <a1>stopped seeing each other </a1>
+    <a2>planned vacation together </a2>
+  </item>
+
+  <item id="275" asks-for="effect" most-plausible-alternative="2">
+    <p>stuck foot out in front of </p>
+    <a1>picked up </a1>
+    <a2>bully's tripped </a2>
+  </item>
+
+  <item id="276" asks-for="effect" most-plausible-alternative="1">
+    <p>wanted to get revenge on </p>
+    <a1>framed for crime </a1>
+    <a2>declared truce with </a2>
+  </item>
+
+  <item id="277" asks-for="effect" most-plausible-alternative="1">
+    <p>drank a cup of coffee </p>
+    <a1>my yawning ceased </a1>
+    <a2>nodded off to sleep </a2>
+  </item>
+
+  <item id="278" asks-for="cause" most-plausible-alternative="2">
+    <p>mistaken for </p>
+    <a1>close with </a1>
+    <a2>looked like </a2>
+  </item>
+
+  <item id="279" asks-for="cause" most-plausible-alternative="2">
+    <p>man made an error in calculations </p>
+    <a1>he checked </a1>
+    <a2>was hasty </a2>
+  </item>
+
+  <item id="280" asks-for="cause" most-plausible-alternative="2">
+    <p>woman's eyeglasses fogged up </p>
+    <a1>reclined by pool </a1>
+    <a2>entered sauna </a2>
+  </item>
+
+  <item id="281" asks-for="effect" most-plausible-alternative="1">
+    <p>shopper wondered about cost of item </p>
+    <a1>checked its price tag </a1>
+    <a2>decided to buy it </a2>
+  </item>
+
+  <item id="282" asks-for="cause" most-plausible-alternative="2">
+    <p>host of trivia show called on for an answer </p>
+    <a1>was in lead </a1>
+    <a2>rang buzzer </a2>
+  </item>
+
+  <item id="283" asks-for="cause" most-plausible-alternative="2">
+    <p>boy was afraid to go to bed </p>
+    <a1>turned on his nightlight </a1>
+    <a2>watched a horror movie </a2>
+  </item>
+
+  <item id="284" asks-for="effect" most-plausible-alternative="2">
+    <p>woman wanted be a doctor </p>
+    <a1>visited hospital </a1>
+    <a2>went medical school </a2>
+  </item>
+
+  <item id="285" asks-for="effect" most-plausible-alternative="2">
+    <p>boy found television show boring </p>
+    <a1>recorded </a1>
+    <a2>shut off </a2>
+  </item>
+
+  <item id="286" asks-for="effect" most-plausible-alternative="2">
+    <p>my daughter suffered an allergy attack </p>
+    <a1>encouraged take deep breaths </a1>
+    <a2>took the emergency room </a2>
+  </item>
+
+  <item id="287" asks-for="effect" most-plausible-alternative="2">
+    <p>boy had trouble buttoning shirt </p>
+    <a1>refused to wear tshirt </a1>
+    <a2>asked mother for help </a2>
+  </item>
+
+  <item id="288" asks-for="cause" most-plausible-alternative="2">
+    <p>spit out my chewing </p>
+    <a1>blew a bubble with </a1>
+    <a2>lost its flavor </a2>
+  </item>
+
+  <item id="289" asks-for="effect" most-plausible-alternative="1">
+    <p>boy painted for </p>
+    <a1>hung on wall </a1>
+    <a2>sold to gallery </a2>
+  </item>
+
+  <item id="290" asks-for="effect" most-plausible-alternative="2">
+    <p>competition ended </p>
+    <a1>got pumped up </a1>
+    <a2>shook hands </a2>
+  </item>
+
+  <item id="291" asks-for="cause" most-plausible-alternative="1">
+    <p>girl politely declined hamburger </p>
+    <a1>was a vegetarian </a1>
+    <a2>liked fast food </a2>
+  </item>
+
+  <item id="292" asks-for="effect" most-plausible-alternative="1">
+    <p>scrubbed </p>
+    <a1>rid of </a1>
+    <a2>dirt </a2>
+  </item>
+
+  <item id="293" asks-for="effect" most-plausible-alternative="2">
+    <p>documents contained important information </p>
+    <a1>paper clipped together </a1>
+    <a2>kept in a secure place </a2>
+  </item>
+
+  <item id="294" asks-for="cause" most-plausible-alternative="1">
+    <p>egg splattered </p>
+    <a1>dropped </a1>
+    <a2>boiled </a2>
+  </item>
+
+  <item id="295" asks-for="effect" most-plausible-alternative="2">
+    <p>girl pushed </p>
+    <a1>choked </a1>
+    <a2>fell over </a2>
+  </item>
+
+  <item id="296" asks-for="effect" most-plausible-alternative="1">
+    <p>a group teenagers crashed </p>
+    <a1>kicked out </a1>
+    <a2>invited in </a2>
+  </item>
+
+  <item id="297" asks-for="cause" most-plausible-alternative="1">
+    <p>man took shower </p>
+    <a1>was sweaty from working out </a1>
+    <a2>opened new bar of soap </a2>
+  </item>
+
+  <item id="298" asks-for="cause" most-plausible-alternative="2">
+    <p>screen on laptop went black </p>
+    <a1>warranty expired </a1>
+    <a2>battery died </a2>
+  </item>
+
+  <item id="299" asks-for="effect" most-plausible-alternative="1">
+    <p>book became huge bestseller </p>
+    <a1>it was adapted movie </a1>
+    <a2>author faded obscurity </a2>
+  </item>
+
+  <item id="300" asks-for="cause" most-plausible-alternative="1">
+    <p>man felt thankful to be alive </p>
+    <a1>he cured of </a1>
+    <a2>his wife diagnosed with </a2>
+  </item>
+
+  <item id="301" asks-for="cause" most-plausible-alternative="2">
+    <p>woman wrote a check to gas company </p>
+    <a1>preferred paying by cash </a1>
+    <a2>received her monthly bill </a2>
+  </item>
+
+  <item id="302" asks-for="cause" most-plausible-alternative="1">
+    <p>woman felt reluctant to switch careers </p>
+    <a1>made money </a1>
+    <a2>endured stress </a2>
+  </item>
+
+  <item id="303" asks-for="cause" most-plausible-alternative="2">
+    <p>wofiled a restraining order against </p>
+    <a1>called </a1>
+    <a2>stalked </a2>
+  </item>
+
+  <item id="304" asks-for="effect" most-plausible-alternative="2">
+    <p>ocean tide was dangerous </p>
+    <a1>put on more sunscreen </a1>
+    <a2>returned towards shore </a2>
+  </item>
+
+  <item id="305" asks-for="cause" most-plausible-alternative="1">
+    <p>woman refused a second beer </p>
+    <a1>designated driver for night </a1>
+    <a2>familiar with bartender </a2>
+  </item>
+
+  <item id="306" asks-for="cause" most-plausible-alternative="1">
+    <p>ran out breath </p>
+    <a1>climbed flights stairs </a1>
+    <a2>read chapters the book </a2>
+  </item>
+
+  <item id="307" asks-for="effect" most-plausible-alternative="1">
+    <p>woman deemed mentally ill </p>
+    <a1>sent to psychiatric institution </a1>
+    <a2>sought career as psychiatrist </a2>
+  </item>
+
+  <item id="308" asks-for="effect" most-plausible-alternative="2">
+    <p>sun emerged from clouds </p>
+    <a1>glanced at watch </a1>
+    <a2>took sweater off </a2>
+  </item>
+
+  <item id="309" asks-for="cause" most-plausible-alternative="1">
+    <p>football coach lost his voice after game </p>
+    <a1>yelled fumbled tball </a1>
+    <a2>whistled scored touchdown </a2>
+  </item>
+
+  <item id="310" asks-for="effect" most-plausible-alternative="2">
+    <p>woman complimented man </p>
+    <a1>sneezed </a1>
+    <a2>blushed </a2>
+  </item>
+
+  <item id="311" asks-for="effect" most-plausible-alternative="2">
+    <p>i applied pressure to cut on my arm </p>
+    <a1>healed </a1>
+    <a2>stopped bleeding </a2>
+  </item>
+
+  <item id="312" asks-for="effect" most-plausible-alternative="1">
+    <p>woman had an infection </p>
+    <a1>took antibiotics </a1>
+    <a2>washed her hands </a2>
+  </item>
+
+  <item id="313" asks-for="effect" most-plausible-alternative="2">
+    <p>woman was summoned for jury duty </p>
+    <a1>contacted lawyer </a1>
+    <a2>cancelled appointments </a2>
+  </item>
+
+  <item id="314" asks-for="cause" most-plausible-alternative="2">
+    <p>woman fanned herself with her hand </p>
+    <a1>she installed </a1>
+    <a2>broke </a2>
+  </item>
+
+  <item id="315" asks-for="cause" most-plausible-alternative="2">
+    <p>doctors amputated patient's leg </p>
+    <a1>badly bruised </a1>
+    <a2>severely infected </a2>
+  </item>
+
+  <item id="316" asks-for="cause" most-plausible-alternative="1">
+    <p>girl stared at herself in </p>
+    <a1>she felt self-conscious </a1>
+    <a2>was smudged </a2>
+  </item>
+
+  <item id="317" asks-for="cause" most-plausible-alternative="1">
+    <p>man was bitten by mosquitoes </p>
+    <a1>went camping in twoods </a1>
+    <a2>fell asleep on his couch </a2>
+  </item>
+
+  <item id="318" asks-for="effect" most-plausible-alternative="2">
+    <p>woman presented with a </p>
+    <a1>brotrefused to accept </a1>
+    <a2>brotunwrapped </a2>
+  </item>
+
+  <item id="319" asks-for="effect" most-plausible-alternative="2">
+    <p>administrator cleared her throat </p>
+    <a1>was postponed </a1>
+    <a2>commenced </a2>
+  </item>
+
+  <item id="320" asks-for="cause" most-plausible-alternative="2">
+    <p>children ran through sprinkler </p>
+    <a1>ate popsicles </a1>
+    <a2>were hot </a2>
+  </item>
+
+  <item id="321" asks-for="effect" most-plausible-alternative="1">
+    <p>man needed coins to fill parking meter </p>
+    <a1>searched under his car seats </a1>
+    <a2>begged people on tstreet </a2>
+  </item>
+
+  <item id="322" asks-for="effect" most-plausible-alternative="2">
+    <p>customer thought souvenir was overpriced </p>
+    <a1>vender sold it to him </a1>
+    <a2>he bargained with vendor </a2>
+  </item>
+
+  <item id="323" asks-for="cause" most-plausible-alternative="1">
+    <p>scientist gained recognition </p>
+    <a1>discovered a new species </a1>
+    <a2>received tenure at university </a2>
+  </item>
+
+  <item id="324" asks-for="effect" most-plausible-alternative="1">
+    <p>car stopped at crosswalk </p>
+    <a1>crossed road </a1>
+    <a2>waited on sidewalk </a2>
+  </item>
+
+  <item id="325" asks-for="cause" most-plausible-alternative="1">
+    <p>boy giggled uncontrollably </p>
+    <a1>tickled </a1>
+    <a2>kicked </a2>
+  </item>
+
+  <item id="326" asks-for="effect" most-plausible-alternative="1">
+    <p>my knees buckled stairs </p>
+    <a1>i caught myself </a1>
+    <a2>came loose from wall </a2>
+  </item>
+
+  <item id="327" asks-for="cause" most-plausible-alternative="2">
+    <p>i went to bed </p>
+    <a1>a clear night </a1>
+    <a2>late </a2>
+  </item>
+
+  <item id="328" asks-for="effect" most-plausible-alternative="2">
+    <p>my friend was recovering from surgery </p>
+    <a1>dropped off at the hospital </a1>
+    <a2>brought a card and flowers </a2>
+  </item>
+
+  <item id="329" asks-for="effect" most-plausible-alternative="2">
+    <p>dj turned music on </p>
+    <a1>left party </a1>
+    <a2>began to dance </a2>
+  </item>
+
+  <item id="330" asks-for="cause" most-plausible-alternative="2">
+    <p>security guard replayed footage </p>
+    <a1>camera was out of focus </a1>
+    <a2>he noticed some suspicious activity </a2>
+  </item>
+
+  <item id="331" asks-for="cause" most-plausible-alternative="2">
+    <p>lingered in bed upon awakening </p>
+    <a1>hungry </a1>
+    <a2>it saturday </a2>
+  </item>
+
+  <item id="332" asks-for="effect" most-plausible-alternative="1">
+    <p>man lifted heavy box </p>
+    <a1>put out </a1>
+    <a2>scratched </a2>
+  </item>
+
+  <item id="333" asks-for="cause" most-plausible-alternative="2">
+    <p>woman's purse was missing </p>
+    <a1>contained a lot of junk </a1>
+    <a2>she left unsupervised </a2>
+  </item>
+
+  <item id="334" asks-for="cause" most-plausible-alternative="2">
+    <p>woman suffered amnesia </p>
+    <a1>had an allergic reaction </a1>
+    <a2>got into a car accident </a2>
+  </item>
+
+  <item id="335" asks-for="effect" most-plausible-alternative="1">
+    <p>needed get cash </p>
+    <a1>went the bank </a1>
+    <a2>bought a wallet </a2>
+  </item>
+
+  <item id="336" asks-for="cause" most-plausible-alternative="1">
+    <p>fell to ground </p>
+    <a1>bucked </a1>
+    <a2>chased </a2>
+  </item>
+
+  <item id="337" asks-for="effect" most-plausible-alternative="1">
+    <p>boy wanted to be muscular </p>
+    <a1>lifted weights </a1>
+    <a2>played computer games </a2>
+  </item>
+
+  <item id="338" asks-for="effect" most-plausible-alternative="1">
+    <p>scientist conducted an experiment </p>
+    <a1>validated theory </a1>
+    <a2>fabricated data </a2>
+  </item>
+
+  <item id="339" asks-for="cause" most-plausible-alternative="2">
+    <p>milk stayed cold </p>
+    <a1>was pasteurized </a1>
+    <a2>i stored in refrigerator </a2>
+  </item>
+
+  <item id="340" asks-for="cause" most-plausible-alternative="1">
+    <p>fussy calmed down </p>
+    <a1>shook rattle in front of </a1>
+    <a2>picked out name for </a2>
+  </item>
+
+  <item id="341" asks-for="effect" most-plausible-alternative="1">
+    <p>i put ice cubes in hot </p>
+    <a1>cooled down </a1>
+    <a2>became thick </a2>
+  </item>
+
+  <item id="342" asks-for="cause" most-plausible-alternative="1">
+    <p>girl shared with </p>
+    <a1>forgot bring his </a1>
+    <a2>sat next at </a2>
+  </item>
+
+  <item id="343" asks-for="cause" most-plausible-alternative="1">
+    <p>police closed investigation </p>
+    <a1>they apprehended suspect </a1>
+    <a2>victim recovered </a2>
+  </item>
+
+  <item id="344" asks-for="effect" most-plausible-alternative="1">
+    <p>rain subsided </p>
+    <a1>went for a walk </a1>
+    <a2>browsed internet </a2>
+  </item>
+
+  <item id="345" asks-for="effect" most-plausible-alternative="1">
+    <p>cup of tea was scalding hot </p>
+    <a1>blew on </a1>
+    <a2>poured out </a2>
+  </item>
+
+  <item id="346" asks-for="cause" most-plausible-alternative="2">
+    <p>photograph faded </p>
+    <a1>fake </a1>
+    <a2>old </a2>
+  </item>
+
+  <item id="347" asks-for="cause" most-plausible-alternative="2">
+    <p>got a black eye </p>
+    <a1>mocked </a1>
+    <a2>punched </a2>
+  </item>
+
+  <item id="348" asks-for="effect" most-plausible-alternative="2">
+    <p>misplaced wallet </p>
+    <a1>retrieved phone </a1>
+    <a2>retraced steps </a2>
+  </item>
+
+  <item id="349" asks-for="effect" most-plausible-alternative="1">
+    <p>hunter ran out of ammunition </p>
+    <a1>reloaded tgun </a1>
+    <a2>aimed at tdeer </a2>
+  </item>
+
+  <item id="350" asks-for="cause" most-plausible-alternative="2">
+    <p>marine life diminished </p>
+    <a1>boats sailed through </a1>
+    <a2>oil spilled into </a2>
+  </item>
+
+  <item id="351" asks-for="effect" most-plausible-alternative="2">
+    <p>i ran under warm water </p>
+    <a1>stuck to my fingers </a1>
+    <a2>vanished </a2>
+  </item>
+
+  <item id="352" asks-for="cause" most-plausible-alternative="2">
+    <p>customer came into boutique </p>
+    <a1>she left wallet at home </a1>
+    <a2>window display caught eye </a2>
+  </item>
+
+  <item id="353" asks-for="cause" most-plausible-alternative="2">
+    <p>man drank water with </p>
+    <a1>cold </a1>
+    <a2>spicy </a2>
+  </item>
+
+  <item id="354" asks-for="cause" most-plausible-alternative="1">
+    <p>woman stayed away from public places </p>
+    <a1>contagious </a1>
+    <a2>intoxicated </a2>
+  </item>
+
+  <item id="355" asks-for="effect" most-plausible-alternative="1">
+    <p>putrid odor filled room </p>
+    <a1>clamped my hand over my nose </a1>
+    <a2>put rubber gloves on </a2>
+  </item>
+
+  <item id="356" asks-for="cause" most-plausible-alternative="2">
+    <p>employee missed work </p>
+    <a1>got touch with </a1>
+    <a2>there was a death </a2>
+  </item>
+
+  <item id="357" asks-for="effect" most-plausible-alternative="2">
+    <p>attracted </p>
+    <a1>dropped from </a1>
+    <a2>stuck to </a2>
+  </item>
+
+  <item id="358" asks-for="effect" most-plausible-alternative="1">
+    <p>gardener pulled </p>
+    <a1>came out of soil </a1>
+    <a2>produced seeds </a2>
+  </item>
+
+  <item id="359" asks-for="effect" most-plausible-alternative="1">
+    <p>we ordered a </p>
+    <a1>was delivered </a1>
+    <a2>got cold </a2>
+  </item>
+
+  <item id="360" asks-for="cause" most-plausible-alternative="1">
+    <p>teenager grew taller than his father </p>
+    <a1>went through a growth spurt </a1>
+    <a2>joined tbasketball team </a2>
+  </item>
+
+  <item id="361" asks-for="cause" most-plausible-alternative="2">
+    <p>patient underwent risky medical </p>
+    <a1>was costly </a1>
+    <a2>specialists recommended </a2>
+  </item>
+
+  <item id="362" asks-for="effect" most-plausible-alternative="2">
+    <p>man caught his shirtsleeve on rungs of </p>
+    <a1>he hopped </a1>
+    <a2>sleeve ripped </a2>
+  </item>
+
+  <item id="363" asks-for="cause" most-plausible-alternative="1">
+    <p>investigators deemed man's death suicide </p>
+    <a1>left note </a1>
+    <a2>had children </a2>
+  </item>
+
+  <item id="364" asks-for="cause" most-plausible-alternative="2">
+    <p>computer crashed </p>
+    <a1>backed up my files </a1>
+    <a2>downloaded a virus </a2>
+  </item>
+
+  <item id="365" asks-for="cause" most-plausible-alternative="1">
+    <p>girl's mouth ached </p>
+    <a1>lost a tooth </a1>
+    <a2>swallowed her gum </a2>
+  </item>
+
+  <item id="366" asks-for="effect" most-plausible-alternative="1">
+    <p>room was dim </p>
+    <a1>opened blinds </a1>
+    <a2>washed windows </a2>
+  </item>
+
+  <item id="367" asks-for="cause" most-plausible-alternative="2">
+    <p>fatput his daughter in stroller </p>
+    <a1>she learned to walk </a1>
+    <a2>he was tired of carrying </a2>
+  </item>
+
+  <item id="368" asks-for="cause" most-plausible-alternative="1">
+    <p>discovered location </p>
+    <a1>bugged phone </a1>
+    <a2>was hired by government </a2>
+  </item>
+
+  <item id="369" asks-for="cause" most-plausible-alternative="2">
+    <p>glasses spilled </p>
+    <a1>drew </a1>
+    <a2>yanked tablecloth </a2>
+  </item>
+
+  <item id="370" asks-for="effect" most-plausible-alternative="2">
+    <p>water in started to boil </p>
+    <a1>cooled </a1>
+    <a2>whistled </a2>
+  </item>
+
+  <item id="371" asks-for="cause" most-plausible-alternative="2">
+    <p>re-elected </p>
+    <a1>cut its budget </a1>
+    <a2>fulfilled his promises </a2>
+  </item>
+
+  <item id="372" asks-for="cause" most-plausible-alternative="1">
+    <p>woman exaggerated details of story </p>
+    <a1>wanted attention </a1>
+    <a2>felt shy </a2>
+  </item>
+
+  <item id="373" asks-for="effect" most-plausible-alternative="2">
+    <p>woman hit a midlife crisis </p>
+    <a1>retired </a1>
+    <a2>went sky diving </a2>
+  </item>
+
+  <item id="374" asks-for="effect" most-plausible-alternative="2">
+    <p>man went into denial tragedy </p>
+    <a1>got over easily </a1>
+    <a2>refused to talk </a2>
+  </item>
+
+  <item id="375" asks-for="cause" most-plausible-alternative="2">
+    <p>man grieved </p>
+    <a1>wife criticized him </a1>
+    <a2>mother passed away </a2>
+  </item>
+
+  <item id="376" asks-for="cause" most-plausible-alternative="2">
+    <p>girl had phobiof dogs </p>
+    <a1>rescued an abandoned </a1>
+    <a2>was bitten by </a2>
+  </item>
+
+  <item id="377" asks-for="effect" most-plausible-alternative="2">
+    <p>made resolution to eat healthy diet </p>
+    <a1>attended yogclass </a1>
+    <a2>bought fruits and vegetables </a2>
+  </item>
+
+  <item id="378" asks-for="cause" most-plausible-alternative="2">
+    <p>patient went into a coma </p>
+    <a1>emotional trauma </a1>
+    <a2>brain damage </a2>
+  </item>
+
+  <item id="379" asks-for="effect" most-plausible-alternative="2">
+    <p>friends' dinnertime turned to politics </p>
+    <a1>quieted down </a1>
+    <a2>a debate erupted </a2>
+  </item>
+
+  <item id="380" asks-for="cause" most-plausible-alternative="1">
+    <p>spotted her friend from across room </p>
+    <a1>waved </a1>
+    <a2>escaped </a2>
+  </item>
+
+  <item id="381" asks-for="effect" most-plausible-alternative="1">
+    <p>mother needed help looking after her </p>
+    <a1>sent to daycare </a1>
+    <a2>gave up custody of </a2>
+  </item>
+
+  <item id="382" asks-for="cause" most-plausible-alternative="1">
+    <p>driver honked horn </p>
+    <a1>anotcar swerved into lane </a1>
+    <a2>she made a right turn at light </a2>
+  </item>
+
+  <item id="383" asks-for="effect" most-plausible-alternative="2">
+    <p>man wanted to save </p>
+    <a1>withdrew from his savings account </a1>
+    <a2>cut back on making frivolous purchases </a2>
+  </item>
+
+  <item id="384" asks-for="cause" most-plausible-alternative="1">
+    <p>i put shoes </p>
+    <a1>floor contained broken glass </a1>
+    <a2>paint walls was wet </a2>
+  </item>
+
+  <item id="385" asks-for="cause" most-plausible-alternative="1">
+    <p>librarian located in stacks </p>
+    <a1>i requested librarian's help </a1>
+    <a2>was checked out </a2>
+  </item>
+
+  <item id="386" asks-for="cause" most-plausible-alternative="1">
+    <p>mother became eye level with her son </p>
+    <a1>squatted down </a1>
+    <a2>held his hand </a2>
+  </item>
+
+  <item id="387" asks-for="cause" most-plausible-alternative="2">
+    <p>packed up belongings </p>
+    <a1>hunting for a new </a1>
+    <a2>moving out of </a2>
+  </item>
+
+  <item id="388" asks-for="cause" most-plausible-alternative="1">
+    <p>mimicked </p>
+    <a1>looked up to </a1>
+    <a2>wrestled with </a2>
+  </item>
+
+  <item id="389" asks-for="effect" most-plausible-alternative="2">
+    <p>girl desired approval </p>
+    <a1>ran away from home </a1>
+    <a2>obeyed rules </a2>
+  </item>
+
+  <item id="390" asks-for="effect" most-plausible-alternative="1">
+    <p>truck crashed into motorcycle on </p>
+    <a1>motorcyclist died </a1>
+    <a2>collapsed </a2>
+  </item>
+
+  <item id="391" asks-for="cause" most-plausible-alternative="1">
+    <p>retail shop shut down </p>
+    <a1>sales were lagging </a1>
+    <a2>it renewed lease </a2>
+  </item>
+
+  <item id="392" asks-for="effect" most-plausible-alternative="1">
+    <p>swimmer won race </p>
+    <a1>she received a gold medal </a1>
+    <a2>her team lost meet </a2>
+  </item>
+
+  <item id="393" asks-for="cause" most-plausible-alternative="1">
+    <p>air pollution in city worsened </p>
+    <a1>increased their production </a1>
+    <a2>shut down </a2>
+  </item>
+
+  <item id="394" asks-for="cause" most-plausible-alternative="1">
+    <p>motscolded </p>
+    <a1>burped at </a1>
+    <a2>set </a2>
+  </item>
+
+  <item id="395" asks-for="cause" most-plausible-alternative="2">
+    <p>excused myself from group </p>
+    <a1>turned off </a1>
+    <a2>rang </a2>
+  </item>
+
+  <item id="396" asks-for="cause" most-plausible-alternative="2">
+    <p>skier slipped on slope </p>
+    <a1>dropped her ski poles </a1>
+    <a2>hit a patch of ice </a2>
+  </item>
+
+  <item id="397" asks-for="effect" most-plausible-alternative="1">
+    <p>print brochure was tiny </p>
+    <a1>put glasses </a1>
+    <a2>retrieved a pen from pocket </a2>
+  </item>
+
+  <item id="398" asks-for="effect" most-plausible-alternative="2">
+    <p>i flipped switch up and down </p>
+    <a1>faded </a1>
+    <a2>flickered </a2>
+  </item>
+
+  <item id="399" asks-for="effect" most-plausible-alternative="2">
+    <p>man's watch was broken </p>
+    <a1>waited at tbus stop </a1>
+    <a2>asked a stranger for ttime </a2>
+  </item>
+
+  <item id="400" asks-for="cause" most-plausible-alternative="2">
+    <p>soldiers concealed in brush </p>
+    <a1>armed with rifles </a1>
+    <a2>wore camouflage uniforms </a2>
+  </item>
+
+  <item id="401" asks-for="effect" most-plausible-alternative="2">
+    <p>man turned on faucet </p>
+    <a1>toilet filled with </a1>
+    <a2>flowed from spout </a2>
+  </item>
+
+  <item id="402" asks-for="effect" most-plausible-alternative="2">
+    <p>girl found a bug cereal </p>
+    <a1>poured milk bowl </a1>
+    <a2>lost appetite </a2>
+  </item>
+
+  <item id="403" asks-for="effect" most-plausible-alternative="1">
+    <p>woman retired </p>
+    <a1>received pension </a1>
+    <a2>paid off mortgage </a2>
+  </item>
+
+  <item id="404" asks-for="effect" most-plausible-alternative="2">
+    <p>wanted to conserve energy </p>
+    <a1>swept floor </a1>
+    <a2>shut off light </a2>
+  </item>
+
+  <item id="405" asks-for="cause" most-plausible-alternative="2">
+    <p>hamburger meat browned </p>
+    <a1>froze </a1>
+    <a2>grilled </a2>
+  </item>
+
+  <item id="406" asks-for="effect" most-plausible-alternative="1">
+    <p>doubted salesman's pitch </p>
+    <a1>turned his offer down </a1>
+    <a2>he persuaded me to buy product </a2>
+  </item>
+
+  <item id="407" asks-for="cause" most-plausible-alternative="1">
+    <p>i decided stay home night </p>
+    <a1>forecast called storms </a1>
+    <a2>my friends urged me go out </a2>
+  </item>
+
+  <item id="408" asks-for="cause" most-plausible-alternative="1">
+    <p>my eyes became red and puffy </p>
+    <a1>sobbing </a1>
+    <a2>laughing </a2>
+  </item>
+
+  <item id="409" asks-for="cause" most-plausible-alternative="1">
+    <p>flame candle went out </p>
+    <a1>blew </a1>
+    <a2>put a match to </a2>
+  </item>
+
+  <item id="410" asks-for="effect" most-plausible-alternative="1">
+    <p>man drank heavily at party </p>
+    <a1>headact </a1>
+    <a2>runny nose t </a2>
+  </item>
+
+  <item id="411" asks-for="cause" most-plausible-alternative="1">
+    <p>knocked over pins </p>
+    <a1>rolled down alley </a1>
+    <a2>dropped on his foot </a2>
+  </item>
+
+  <item id="412" asks-for="cause" most-plausible-alternative="2">
+    <p>community learned of man's death </p>
+    <a1>family buried him cemetery </a1>
+    <a2>obituary appeared newspaper </a2>
+  </item>
+
+  <item id="413" asks-for="effect" most-plausible-alternative="2">
+    <p>computer crashed </p>
+    <a1>installed new speakers </a1>
+    <a2>lost all data </a2>
+  </item>
+
+  <item id="414" asks-for="cause" most-plausible-alternative="2">
+    <p>woman resigned from job </p>
+    <a1>aspired to hold an executive position in firm </a1>
+    <a2>believed superiors were acting unethically </a2>
+  </item>
+
+  <item id="415" asks-for="cause" most-plausible-alternative="1">
+    <p>player caught ball </p>
+    <a1>teammate threw </a1>
+    <a2>opponent tried intercept </a2>
+  </item>
+
+  <item id="416" asks-for="cause" most-plausible-alternative="1">
+    <p>judge pounded gavel </p>
+    <a1>courtroom broke into uproar </a1>
+    <a2>jury announced its verdict </a2>
+  </item>
+
+  <item id="417" asks-for="cause" most-plausible-alternative="2">
+    <p>woman banished from property </p>
+    <a1>hit a ball into yard </a1>
+    <a2>trampled through garden </a2>
+  </item>
+
+  <item id="418" asks-for="cause" most-plausible-alternative="1">
+    <p>kidnappers released hostage </p>
+    <a1>accepted ransom money </a1>
+    <a2>escaped from jail </a2>
+  </item>
+
+  <item id="419" asks-for="cause" most-plausible-alternative="2">
+    <p>cook's eyes watered </p>
+    <a1>ran out of onions </a1>
+    <a2>cut an onion </a2>
+  </item>
+
+  <item id="420" asks-for="cause" most-plausible-alternative="1">
+    <p>woman ran under cold water </p>
+    <a1>burned toaster </a1>
+    <a2>put a diamond ring </a2>
+  </item>
+
+  <item id="421" asks-for="effect" most-plausible-alternative="1">
+    <p>student misspelled word </p>
+    <a1>corrected </a1>
+    <a2>dismissed </a2>
+  </item>
+
+  <item id="422" asks-for="cause" most-plausible-alternative="2">
+    <p>regained composure from fit of anger </p>
+    <a1>heart pounded </a1>
+    <a2>took deep breaths </a2>
+  </item>
+
+  <item id="423" asks-for="effect" most-plausible-alternative="1">
+    <p>i put under running faucet </p>
+    <a1>soap rinsed off </a1>
+    <a2>water splashed in face </a2>
+  </item>
+
+  <item id="424" asks-for="cause" most-plausible-alternative="1">
+    <p>man dressed in best suit </p>
+    <a1>he scheduled meeting with an important client </a1>
+    <a2>wife bought him new tie </a2>
+  </item>
+
+  <item id="425" asks-for="effect" most-plausible-alternative="1">
+    <p>man confessed his love for </p>
+    <a1>rejected </a1>
+    <a2>envied </a2>
+  </item>
+
+  <item id="426" asks-for="cause" most-plausible-alternative="2">
+    <p>driver got flat tire </p>
+    <a1>went tspeed limit </a1>
+    <a2>ran nail </a2>
+  </item>
+
+  <item id="427" asks-for="cause" most-plausible-alternative="2">
+    <p>my view movie screen blocked </p>
+    <a1>couple behind whispering </a1>
+    <a2>a tall person sitting in front </a2>
+  </item>
+
+  <item id="428" asks-for="cause" most-plausible-alternative="2">
+    <p>driver turned on car's headlights </p>
+    <a1>he heard thunder </a1>
+    <a2>sun went down </a2>
+  </item>
+
+  <item id="429" asks-for="effect" most-plausible-alternative="2">
+    <p>girl refused eat vegetables </p>
+    <a1>fattold drink milk </a1>
+    <a2>fattook away dessert </a2>
+  </item>
+
+  <item id="430" asks-for="cause" most-plausible-alternative="2">
+    <p>woman covered her mouth with her hand </p>
+    <a1>exhaled </a1>
+    <a2>sneezed </a2>
+  </item>
+
+  <item id="431" asks-for="effect" most-plausible-alternative="2">
+    <p>secretary put hold </p>
+    <a1>caller's phone lost reception </a1>
+    <a2>waited line </a2>
+  </item>
+
+  <item id="432" asks-for="cause" most-plausible-alternative="2">
+    <p>woman walked with crutches </p>
+    <a1>shaved legs </a1>
+    <a2>broke leg </a2>
+  </item>
+
+  <item id="433" asks-for="cause" most-plausible-alternative="1">
+    <p>coughed </p>
+    <a1>inhaled smoke </a1>
+    <a2>lowered my voice </a2>
+  </item>
+
+  <item id="434" asks-for="cause" most-plausible-alternative="1">
+    <p>clock chimed </p>
+    <a1>it was top of </a1>
+    <a2>seemed to drag on </a2>
+  </item>
+
+  <item id="435" asks-for="effect" most-plausible-alternative="1">
+    <p>chef hit on side of bowl </p>
+    <a1>cracked </a1>
+    <a2>rotted </a2>
+  </item>
+
+  <item id="436" asks-for="cause" most-plausible-alternative="2">
+    <p>police searched offender's car </p>
+    <a1>trying to elicit a confession </a1>
+    <a2>looking for illegal drugs </a2>
+  </item>
+
+  <item id="437" asks-for="cause" most-plausible-alternative="1">
+    <p>couple travelled south for winter </p>
+    <a1>retired </a1>
+    <a2>separated </a2>
+  </item>
+
+  <item id="438" asks-for="cause" most-plausible-alternative="2">
+    <p>man felt obligated attend event </p>
+    <a1>turned down friend's invitation </a1>
+    <a2>promised friend that would </a2>
+  </item>
+
+  <item id="439" asks-for="effect" most-plausible-alternative="2">
+    <p>bride got cold feet before </p>
+    <a1>guests brought gifts </a1>
+    <a2>she called off </a2>
+  </item>
+
+  <item id="440" asks-for="effect" most-plausible-alternative="1">
+    <p>man grew old </p>
+    <a1>hair turned gray </a1>
+    <a2>he sold belongings </a2>
+  </item>
+
+  <item id="441" asks-for="effect" most-plausible-alternative="1">
+    <p>friends decided to share </p>
+    <a1>cut in half </a1>
+    <a2>ordered fries with </a2>
+  </item>
+
+  <item id="442" asks-for="effect" most-plausible-alternative="1">
+    <p>i twisted cap off bottle </p>
+    <a1>fizzed </a1>
+    <a2>leaked out </a2>
+  </item>
+
+  <item id="443" asks-for="cause" most-plausible-alternative="2">
+    <p>pair of came under scrutiny by teacher </p>
+    <a1>both received excellent grades </a1>
+    <a2>their responses on assignment were identical </a2>
+  </item>
+
+  <item id="444" asks-for="effect" most-plausible-alternative="1">
+    <p>student was in a rush get on time </p>
+    <a1>left assignment at home </a1>
+    <a2>brought lunch </a2>
+  </item>
+
+  <item id="445" asks-for="cause" most-plausible-alternative="2">
+    <p>wrote a biography about life </p>
+    <a1>humanitarian difficult for to interview </a1>
+    <a2>intrigued by work </a2>
+  </item>
+
+  <item id="446" asks-for="effect" most-plausible-alternative="2">
+    <p>man defied authorities of </p>
+    <a1>donated money to t </a1>
+    <a2>was excommunicated from t </a2>
+  </item>
+
+  <item id="447" asks-for="effect" most-plausible-alternative="1">
+    <p>woman's fell in face </p>
+    <a1>pulled back with a clip </a1>
+    <a2>lathered shampoo into </a2>
+  </item>
+
+  <item id="448" asks-for="cause" most-plausible-alternative="1">
+    <p>ring on got stuck </p>
+    <a1>swelled </a1>
+    <a2>i chipped fingernail </a2>
+  </item>
+
+  <item id="449" asks-for="effect" most-plausible-alternative="2">
+    <p>i pulled rubber band </p>
+    <a1>flung across room </a1>
+    <a2>stretched </a2>
+  </item>
+
+  <item id="450" asks-for="effect" most-plausible-alternative="1">
+    <p>i pressed hand into wet </p>
+    <a1>handprint dried </a1>
+    <a2>cracks emerged </a2>
+  </item>
+
+  <item id="451" asks-for="cause" most-plausible-alternative="1">
+    <p>skin broke out into a rash </p>
+    <a1>brushed against in </a1>
+    <a2>eradicated the from </a2>
+  </item>
+
+  <item id="452" asks-for="effect" most-plausible-alternative="2">
+    <p>my subscription to magazine expired </p>
+    <a1>discarded issue </a1>
+    <a2>stopped receiving issues </a2>
+  </item>
+
+  <item id="453" asks-for="effect" most-plausible-alternative="2">
+    <p>detective revealed an anomaly in case </p>
+    <a1>finalized </a1>
+    <a2>scrapped </a2>
+  </item>
+
+  <item id="454" asks-for="cause" most-plausible-alternative="1">
+    <p>boy threw a temper tantrum </p>
+    <a1>took from him </a1>
+    <a2>he shared with </a2>
+  </item>
+
+  <item id="455" asks-for="cause" most-plausible-alternative="1">
+    <p>child learned how to read </p>
+    <a1>began attending </a1>
+    <a2>skipped a grade in </a2>
+  </item>
+
+  <item id="456" asks-for="cause" most-plausible-alternative="2">
+    <p>boy skipped dinner </p>
+    <a1>his mother cooked his favorite meal </a1>
+    <a2>he ate a big lunch </a2>
+  </item>
+
+  <item id="457" asks-for="cause" most-plausible-alternative="1">
+    <p>woman lavished flattery </p>
+    <a1>wanted to ask for a favor </a1>
+    <a2>was irritated friend's whining </a2>
+  </item>
+
+  <item id="458" asks-for="cause" most-plausible-alternative="1">
+    <p>key was missing from my </p>
+    <a1>had a hole </a1>
+    <a2>were new </a2>
+  </item>
+
+  <item id="459" asks-for="cause" most-plausible-alternative="2">
+    <p>man fainted </p>
+    <a1>took nap </a1>
+    <a2>ran marathon </a2>
+  </item>
+
+  <item id="460" asks-for="cause" most-plausible-alternative="1">
+    <p>man lost </p>
+    <a1>was sabotaged </a1>
+    <a2>he intimidated his competitors </a2>
+  </item>
+
+  <item id="461" asks-for="cause" most-plausible-alternative="2">
+    <p>mother called an ambulance </p>
+    <a1>lost cat </a1>
+    <a2>fell out of bed </a2>
+  </item>
+
+  <item id="462" asks-for="cause" most-plausible-alternative="1">
+    <p>driver slammed his brakes </p>
+    <a1>a deer appeared road </a1>
+    <a2>car radio shut off </a2>
+  </item>
+
+  <item id="463" asks-for="cause" most-plausible-alternative="1">
+    <p>opened </p>
+    <a1>turned in </a1>
+    <a2>made a duplicate of </a2>
+  </item>
+
+  <item id="464" asks-for="cause" most-plausible-alternative="2">
+    <p>put rubber gloves on </p>
+    <a1>wash my hands </a1>
+    <a2>clean the bathroom </a2>
+  </item>
+
+  <item id="465" asks-for="cause" most-plausible-alternative="1">
+    <p>animal species became endangered </p>
+    <a1>habitat was destroyed </a1>
+    <a2>predators went extinct </a2>
+  </item>
+
+  <item id="466" asks-for="cause" most-plausible-alternative="1">
+    <p>man perceived that looked different </p>
+    <a1>got her hair cut </a1>
+    <a2>wore a bracelet </a2>
+  </item>
+
+  <item id="467" asks-for="effect" most-plausible-alternative="1">
+    <p>student forgot do assignment </p>
+    <a1>she made up an excuse tell </a1>
+    <a2>promoted next grade </a2>
+  </item>
+
+  <item id="468" asks-for="cause" most-plausible-alternative="2">
+    <p>dog barked </p>
+    <a1>cat lounged on couch </a1>
+    <a2>a knock sounded at door </a2>
+  </item>
+
+  <item id="469" asks-for="effect" most-plausible-alternative="1">
+    <p>plans were announced to replace local park with shopping mall </p>
+    <a1>started petition </a1>
+    <a2>produced documentary </a2>
+  </item>
+
+  <item id="470" asks-for="effect" most-plausible-alternative="1">
+    <p>couple was happy to see each other </p>
+    <a1>kissed </a1>
+    <a2>rested </a2>
+  </item>
+
+  <item id="471" asks-for="cause" most-plausible-alternative="1">
+    <p>woman asked man to leave </p>
+    <a1>insulted </a1>
+    <a2>thanked </a2>
+  </item>
+
+  <item id="472" asks-for="effect" most-plausible-alternative="1">
+    <p>tree landed in river </p>
+    <a1>moved downstream </a1>
+    <a2>river's current became stronger </a2>
+  </item>
+
+  <item id="473" asks-for="effect" most-plausible-alternative="2">
+    <p>teacher assigned homework to </p>
+    <a1>passed notes </a1>
+    <a2>groaned </a2>
+  </item>
+
+  <item id="474" asks-for="effect" most-plausible-alternative="2">
+    <p>seasons changed summer to autumn </p>
+    <a1>people evacuated their homes </a1>
+    <a2>leaves fell trees </a2>
+  </item>
+
+  <item id="475" asks-for="effect" most-plausible-alternative="2">
+    <p>politician convicted of fraud </p>
+    <a1>campaigned for re-election </a1>
+    <a2>removed from office </a2>
+  </item>
+
+  <item id="476" asks-for="effect" most-plausible-alternative="2">
+    <p>i pushed </p>
+    <a1>objects in fell out </a1>
+    <a2>wheels spun forward </a2>
+  </item>
+
+  <item id="477" asks-for="effect" most-plausible-alternative="2">
+    <p>lobbyist persuaded to support </p>
+    <a1>president vetoed </a1>
+    <a2>passed </a2>
+  </item>
+
+  <item id="478" asks-for="effect" most-plausible-alternative="1">
+    <p>my closet was messy </p>
+    <a1>organized </a1>
+    <a2>decorated </a2>
+  </item>
+
+  <item id="479" asks-for="effect" most-plausible-alternative="2">
+    <p>stayed up late </p>
+    <a1>had vivid dreams that night </a1>
+    <a2>was tired in the morning </a2>
+  </item>
+
+  <item id="480" asks-for="cause" most-plausible-alternative="1">
+    <p>man's jingled as walked </p>
+    <a1>was filled with coins </a1>
+    <a2>sewed hole in </a2>
+  </item>
+
+  <item id="481" asks-for="cause" most-plausible-alternative="1">
+    <p>everyone in class turned to stare at </p>
+    <a1>student's phone rang </a1>
+    <a2>took notes </a2>
+  </item>
+
+  <item id="482" asks-for="cause" most-plausible-alternative="1">
+    <p>bucked </p>
+    <a1>a fly bit </a1>
+    <a2>rider stroked </a2>
+  </item>
+
+  <item id="483" asks-for="effect" most-plausible-alternative="1">
+    <p>thieves were caught </p>
+    <a1>returned to its owners </a1>
+    <a2>cost of calculated </a2>
+  </item>
+
+  <item id="484" asks-for="effect" most-plausible-alternative="2">
+    <p>political violence broke out nation </p>
+    <a1>relocated to capitol </a1>
+    <a2>took refuge other territories </a2>
+  </item>
+
+  <item id="485" asks-for="cause" most-plausible-alternative="2">
+    <p>woman was arrested </p>
+    <a1>checked into rehab </a1>
+    <a2>committed assault </a2>
+  </item>
+
+  <item id="486" asks-for="effect" most-plausible-alternative="1">
+    <p>woman read newspaper </p>
+    <a1>discovered outcome of </a1>
+    <a2>casted a vote in </a2>
+  </item>
+
+  <item id="487" asks-for="effect" most-plausible-alternative="1">
+    <p>child coughed on </p>
+    <a1>got </a1>
+    <a2>sneezed </a2>
+  </item>
+
+  <item id="488" asks-for="effect" most-plausible-alternative="1">
+    <p>couple got engaged </p>
+    <a1>planned a wedding </a1>
+    <a2>took some time apart </a2>
+  </item>
+
+  <item id="489" asks-for="cause" most-plausible-alternative="1">
+    <p>contacted real estate agent </p>
+    <a1>planned buy a condo </a1>
+    <a2>needed clean her house </a2>
+  </item>
+
+  <item id="490" asks-for="effect" most-plausible-alternative="1">
+    <p>man won lottery </p>
+    <a1>became rich </a1>
+    <a2>owed money </a2>
+  </item>
+
+  <item id="491" asks-for="effect" most-plausible-alternative="1">
+    <p>i lit </p>
+    <a1>dripped off </a1>
+    <a2>on hardened </a2>
+  </item>
+
+  <item id="492" asks-for="effect" most-plausible-alternative="2">
+    <p>spent day at pool </p>
+    <a1>sprained ankle </a1>
+    <a2>face got sunburned </a2>
+  </item>
+
+  <item id="493" asks-for="cause" most-plausible-alternative="2">
+    <p>man received a ticket </p>
+    <a1>he parallel parked on street </a1>
+    <a2>meter expired </a2>
+  </item>
+
+  <item id="494" asks-for="effect" most-plausible-alternative="1">
+    <p>woman became famous </p>
+    <a1>photographers followed </a1>
+    <a2>family avoided </a2>
+  </item>
+
+  <item id="495" asks-for="effect" most-plausible-alternative="1">
+    <p>girl wanted to wear earrings </p>
+    <a1>her ears pierced </a1>
+    <a2>a tattoo </a2>
+  </item>
+
+  <item id="496" asks-for="cause" most-plausible-alternative="2">
+    <p>my ears were ringing </p>
+    <a1>museum </a1>
+    <a2>concert </a2>
+  </item>
+
+  <item id="497" asks-for="cause" most-plausible-alternative="2">
+    <p>tidied up my house </p>
+    <a1>swamped with work </a1>
+    <a2>expecting company </a2>
+  </item>
+
+  <item id="498" asks-for="effect" most-plausible-alternative="1">
+    <p>airline mishandled luggage </p>
+    <a1>offered me compensation </a1>
+    <a2>cancelled flight </a2>
+  </item>
+
+  <item id="499" asks-for="effect" most-plausible-alternative="2">
+    <p>computer was expensive to fix </p>
+    <a1>got it repaired </a1>
+    <a2>bought a new one </a2>
+  </item>
+
+  <item id="500" asks-for="effect" most-plausible-alternative="2">
+    <p>woman was a bad mood </p>
+    <a1>engaged small talk with </a1>
+    <a2>told to leave alone </a2>
+  </item>
+
+</copa-corpus>
