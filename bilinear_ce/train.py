@@ -35,6 +35,7 @@ params.type = str(sys.argv[7])
 params.epochs = int(sys.argv[8])
 #use how many percentage of the training data, if it's 1, then it's the full data set.
 params.frac = float(sys.argv[9])
+#model output file, default save it to models directory
 params.outfile = 'Bilinear_ce'+'trainSize300frac'+str(params.frac)+'dSize'+str(sys.argv[1])+'relSize'+str(sys.argv[2])+'acti'+str(sys.argv[3])
 #use normal training dataset 
 params.dataf = '../commonsendata/Training/new_omcs100.txt'
