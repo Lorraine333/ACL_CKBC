@@ -45,8 +45,10 @@ params.constraints = False
 params.evaType = 'cause'
 params.margin = 1
 
-(words, We) = getWordmap('../commonsendata/embeddings/tuples/embeddings.skip.newtask.en.d'+str(sys.argv[1])+'.m1.w5.s0.it20.txt')
+# (words, We) = getWordmap('../commonsendata/embeddings/tuples/embeddings.skip.newtask.en.d'+str(sys.argv[1])+'.m1.w5.s0.it20.txt')
 # print We.shape
+# if downloading data from http://ttic.uchicago.edu/~kgimpel/commonsense.html
+(words, We) = getWordmap('../commonsendata/embeddings/embeddings.txt')
 rel = getRelation('../commonsendata/Training/rel.txt')
 params.outfile = "../models/"+params.outfile+"."+str(params.lam)+"."+str(params.batchsize)+"."+params.type+"."+params.activation+".txt"
 

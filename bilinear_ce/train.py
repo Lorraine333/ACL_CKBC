@@ -44,7 +44,7 @@ params.dataf = '../commonsendata/Training/new_omcs100.txt'
 # params.dataf = '../commonsendata/Training/new_omcs600.txt'
 
 #if you want to save the model, just change this to 'True'
-params.save = False
+params.save = True
 params.constraints = False
 params.activation = "tanh"
 params.evaType = 'cause'
@@ -52,7 +52,9 @@ params.usepeep = True
 params.margin = 1
 
 
-(words, We) = getWordmap('../commonsendata/embeddings/tuples/embeddings.skip.newtask.en.d'+str(sys.argv[1])+'.m1.w5.s0.it20.txt')
+# (words, We) = getWordmap('../commonsendata/embeddings/tuples/embeddings.skip.newtask.en.d'+str(sys.argv[1])+'.m1.w5.s0.it20.txt')
+# if downloading data from http://ttic.uchicago.edu/~kgimpel/commonsense.html
+(words, We) = getWordmap('../commonsendata/embeddings/embeddings.txt')
 rel = getRelation('../commonsendata/Training/rel.txt')
 params.outfile = "../models/"+params.outfile+"."+str(params.lam)+"."+str(params.batchsize)+"."+params.type+"."+params.activation+".txt"
 

@@ -49,7 +49,9 @@ params.epochs = 30
 
 
 
-(words, We) = getWordmap('../commonsendata/embeddings/tuples/embeddings.skip.newtask.en.d'+str(sys.argv[1])+'.m1.w5.s0.it20.txt')
+# (words, We) = getWordmap('../commonsendata/embeddings/tuples/embeddings.skip.newtask.en.d'+str(sys.argv[1])+'.m1.w5.s0.it20.txt')
+# if downloading data from http://ttic.uchicago.edu/~kgimpel/commonsense.html
+(words, We) = getWordmap('../commonsendata/embeddings/embeddings.txt')
 rel = getRelation('../commonsendata/Training/rel.txt')
 params.outfile = "../models/"+params.outfile+".Epoch"+str(params.epochs)+".Frac"+str(params.frac)+".Act"+str(params.activation)+".Batch"+str(params.batchsize)+".LC"+str(params.LC)+".eta"+str(params.eta)+"relSize"+str(params.relsize)+".txt"
 
